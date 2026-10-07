@@ -1,0 +1,701 @@
+Job ID,Job Title,Company,Location,Experience Level,Employment Type,Salary LPA,Skills,Education,Posted Date,Data Type
+JOB-0001,Data Scientist,BluePeak Systems,Remote,Fresher,Internship,11.9,Pandas;NumPy;Python;Machine Learning;Statistics;SQL,Bachelor's degree,2026-08-18,Synthetic demo data
+JOB-0002,Web Developer,DataBridge,Kochi,3-5 years,Full-time,18.9,Git;React;JavaScript;CSS;Python;HTML;Node.js,Bachelor's degree,2025-10-12,Synthetic demo data
+JOB-0003,Backend Developer,Evergreen Digital,Coimbatore,5+ years,Internship,5.6,Docker;SQL;Java;Machine Learning;HTML;Git;Python;AWS;Node.js,Master's degree,2026-08-25,Synthetic demo data
+JOB-0004,Full Stack Developer,DataBridge,Chennai,5+ years,Contract,12.5,CSS;Node.js;Tableau;HTML;Git;JavaScript;Statistics;React;SQL,Master's degree,2026-07-13,Synthetic demo data
+JOB-0005,Machine Learning Engineer,CloudNine Tech,Kochi,5+ years,Contract,23.8,Pandas;Statistics;NumPy;Machine Learning;Python;HTML;Docker;AWS,Any degree,2025-10-17,Synthetic demo data
+JOB-0006,Full Stack Developer,Evergreen Digital,Chennai,1-3 years,Internship,21.4,React;CSS;Node.js;Tableau;HTML;JavaScript;Git;SQL,Master's degree,2026-06-18,Synthetic demo data
+JOB-0007,Frontend Developer,Nova Solutions,Pune,1-3 years,Full-time,13.7,JavaScript;SQL;React;CSS;Excel;Pandas;HTML;Git,Bachelor's degree,2026-09-10,Synthetic demo data
+JOB-0008,Data Scientist,Orbit Analytics,Remote,3-5 years,Internship,21.1,NumPy;Statistics;React;Python;Pandas;SQL;Machine Learning,Bachelor's degree,2025-10-21,Synthetic demo data
+JOB-0009,Data Scientist,CloudNine Tech,Remote,Fresher,Internship,9.3,React;NumPy;Python;SQL;HTML;Pandas;Statistics;Machine Learning,Any degree,2026-01-18,Synthetic demo data
+JOB-0010,Business Analyst,Orbit Analytics,Coimbatore,Fresher,Contract,21.5,Tableau;Statistics;Docker;Excel;SQL;Power BI,Master's degree,2026-06-04,Synthetic demo data
+JOB-0011,Data Analyst,CloudNine Tech,Kochi,1-3 years,Contract,14.1,NumPy;Tableau;Python;Pandas;Power BI;Statistics;SQL;Excel,Any degree,2026-03-02,Synthetic demo data
+JOB-0012,Web Developer,BluePeak Systems,Hyderabad,1-3 years,Full-time,10.1,HTML;CSS;Node.js;Git;Tableau;React;JavaScript,Any degree,2025-12-25,Synthetic demo data
+JOB-0013,Web Developer,FutureWorks,Chennai,1-3 years,Contract,17.0,React;JavaScript;Node.js;CSS;AWS;Git;HTML,Bachelor's degree,2026-01-01,Synthetic demo data
+JOB-0014,Python Developer,Orbit Analytics,Coimbatore,Fresher,Full-time,11.5,Java;AWS;Pandas;SQL;Node.js;NumPy;Python;Git;Docker,Master's degree,2026-08-10,Synthetic demo data
+JOB-0015,Web Developer,Orbit Analytics,Hyderabad,Fresher,Contract,20.0,JavaScript;Java;HTML;Git;CSS;React;Node.js,Any degree,2026-08-15,Synthetic demo data
+JOB-0016,Data Analyst,DataBridge,Delhi,Fresher,Full-time,11.0,Pandas;Python;Tableau;Power BI;Statistics;Excel;SQL,Master's degree,2026-05-22,Synthetic demo data
+JOB-0017,Frontend Developer,DataBridge,Coimbatore,Fresher,Internship,9.6,CSS;Statistics;JavaScript;HTML;React;Git;NumPy,Bachelor's degree,2025-12-09,Synthetic demo data
+JOB-0018,Frontend Developer,DataBridge,Delhi,Fresher,Internship,8.2,React;CSS;AWS;HTML;JavaScript;Git,Any degree,2026-09-14,Synthetic demo data
+JOB-0019,Business Analyst,FutureWorks,Hyderabad,3-5 years,Contract,5.7,Statistics;Excel;SQL;Power BI;Tableau,Any degree,2026-05-04,Synthetic demo data
+JOB-0020,Frontend Developer,Evergreen Digital,Bengaluru,3-5 years,Full-time,21.5,HTML;CSS;Tableau;Docker;Git;React;JavaScript,Master's degree,2026-05-12,Synthetic demo data
+JOB-0021,Python Developer,BluePeak Systems,Chennai,1-3 years,Contract,8.9,Power BI;Git;Docker;JavaScript;SQL;AWS;NumPy;Python;React,Bachelor's degree,2026-04-12,Synthetic demo data
+JOB-0022,Web Developer,Aster Labs,Pune,1-3 years,Internship,23.6,JavaScript;Power BI;CSS;React;Git;HTML;Python;Node.js,Bachelor's degree,2026-02-20,Synthetic demo data
+JOB-0023,Full Stack Developer,Aster Labs,Mumbai,3-5 years,Full-time,21.9,SQL;Python;React;Docker;Node.js;AWS;Git;JavaScript;CSS;HTML,Bachelor's degree,2025-10-20,Synthetic demo data
+JOB-0024,Web Developer,DataBridge,Bengaluru,1-3 years,Contract,3.5,CSS;HTML;Git;React;Node.js;JavaScript,Any degree,2026-04-17,Synthetic demo data
+JOB-0025,Backend Developer,DataBridge,Hyderabad,5+ years,Contract,9.4,Machine Learning;Java;Docker;Node.js;Python;AWS;Git;SQL,Bachelor's degree,2026-06-12,Synthetic demo data
+JOB-0026,Data Analyst,FutureWorks,Coimbatore,Fresher,Contract,6.7,JavaScript;Excel;Power BI;Tableau;Pandas;SQL;Python;Statistics,Master's degree,2026-09-15,Synthetic demo data
+JOB-0027,Data Scientist,Aster Labs,Remote,1-3 years,Contract,12.1,HTML;SQL;Python;Statistics;Tableau;NumPy;Pandas;Machine Learning;Java,Any degree,2026-04-18,Synthetic demo data
+JOB-0028,Business Analyst,FutureWorks,Delhi,3-5 years,Internship,5.7,Excel;SQL;Tableau;CSS;Statistics;Power BI;Pandas,Master's degree,2025-10-29,Synthetic demo data
+JOB-0029,Backend Developer,Nova Solutions,Pune,5+ years,Contract,12.3,Git;AWS;Java;SQL;Python;Statistics;Node.js;Docker,Bachelor's degree,2026-01-16,Synthetic demo data
+JOB-0030,Frontend Developer,Evergreen Digital,Hyderabad,1-3 years,Full-time,3.5,HTML;React;SQL;Git;CSS;JavaScript,Bachelor's degree,2026-02-03,Synthetic demo data
+JOB-0031,Business Analyst,Nova Solutions,Kochi,5+ years,Full-time,6.1,SQL;Excel;Power BI;Statistics;Tableau,Any degree,2026-10-02,Synthetic demo data
+JOB-0032,Data Scientist,FutureWorks,Kochi,5+ years,Internship,12.4,Statistics;SQL;Excel;Pandas;Node.js;Machine Learning;NumPy;Python;Docker,Bachelor's degree,2026-02-03,Synthetic demo data
+JOB-0033,Frontend Developer,Evergreen Digital,Kochi,Fresher,Internship,9.0,HTML;JavaScript;Git;React;CSS;Tableau;Java,Master's degree,2026-04-16,Synthetic demo data
+JOB-0034,Machine Learning Engineer,DataBridge,Chennai,5+ years,Contract,9.9,NumPy;Python;Pandas;AWS;Docker;Machine Learning,Master's degree,2026-03-06,Synthetic demo data
+JOB-0035,Data Analyst,FutureWorks,Mumbai,5+ years,Contract,14.3,Python;Statistics;Excel;Power BI;SQL;Tableau;JavaScript;Pandas,Any degree,2025-12-29,Synthetic demo data
+JOB-0036,Business Analyst,Nova Solutions,Pune,5+ years,Internship,6.5,Statistics;Excel;Machine Learning;Tableau;Power BI;SQL,Master's degree,2026-07-31,Synthetic demo data
+JOB-0037,Business Analyst,CloudNine Tech,Kochi,1-3 years,Full-time,8.5,Power BI;SQL;Statistics;Excel;Tableau,Master's degree,2026-06-18,Synthetic demo data
+JOB-0038,Frontend Developer,Aster Labs,Pune,1-3 years,Internship,4.4,Git;Node.js;HTML;JavaScript;NumPy;React;CSS,Any degree,2026-09-14,Synthetic demo data
+JOB-0039,Data Analyst,DataBridge,Kochi,3-5 years,Contract,6.5,Python;Git;Power BI;Pandas;Statistics;Excel;Tableau;SQL,Any degree,2026-08-07,Synthetic demo data
+JOB-0040,Python Developer,BluePeak Systems,Hyderabad,Fresher,Internship,19.2,Git;React;Excel;NumPy;Docker;AWS;SQL;Python,Any degree,2025-12-01,Synthetic demo data
+JOB-0041,Data Scientist,BluePeak Systems,Remote,3-5 years,Full-time,20.8,Python;Machine Learning;SQL;Pandas;NumPy;Statistics,Master's degree,2026-08-11,Synthetic demo data
+JOB-0042,Backend Developer,Orbit Analytics,Delhi,3-5 years,Contract,20.9,Python;Tableau;Node.js;Power BI;Docker;AWS;Java;Git;SQL,Bachelor's degree,2026-05-15,Synthetic demo data
+JOB-0043,Frontend Developer,Orbit Analytics,Pune,1-3 years,Contract,7.5,CSS;JavaScript;HTML;Tableau;Git;React,Master's degree,2026-04-13,Synthetic demo data
+JOB-0044,Software Developer,Orbit Analytics,Kochi,5+ years,Full-time,5.0,JavaScript;Power BI;SQL;Docker;AWS;Python;Java;Git,Bachelor's degree,2026-03-11,Synthetic demo data
+JOB-0045,Web Developer,FutureWorks,Kochi,3-5 years,Contract,8.3,HTML;Statistics;CSS;JavaScript;SQL;Node.js;React;Git,Bachelor's degree,2026-06-28,Synthetic demo data
+JOB-0046,Machine Learning Engineer,Orbit Analytics,Mumbai,3-5 years,Full-time,20.5,Pandas;NumPy;Python;Machine Learning;AWS;Docker,Master's degree,2026-06-10,Synthetic demo data
+JOB-0047,Machine Learning Engineer,Aster Labs,Remote,3-5 years,Internship,22.8,NumPy;Java;Pandas;Machine Learning;AWS;Docker;Python,Any degree,2026-01-26,Synthetic demo data
+JOB-0048,Data Scientist,FutureWorks,Bengaluru,Fresher,Contract,22.8,Python;SQL;Machine Learning;Pandas;Statistics;NumPy,Master's degree,2026-08-07,Synthetic demo data
+JOB-0049,Data Scientist,Nova Solutions,Hyderabad,5+ years,Contract,22.1,JavaScript;SQL;Pandas;Power BI;CSS;NumPy;Machine Learning;Statistics;Python,Master's degree,2025-12-07,Synthetic demo data
+JOB-0050,Backend Developer,CloudNine Tech,Hyderabad,1-3 years,Internship,4.6,Docker;Tableau;Node.js;SQL;AWS;Statistics;Git;Java;Python,Bachelor's degree,2026-03-09,Synthetic demo data
+JOB-0051,Frontend Developer,Evergreen Digital,Hyderabad,5+ years,Full-time,14.4,HTML;Java;AWS;JavaScript;React;CSS;Machine Learning;Git,Any degree,2026-07-20,Synthetic demo data
+JOB-0052,Software Developer,Orbit Analytics,Mumbai,5+ years,Contract,13.5,Git;CSS;JavaScript;Docker;SQL;Python;Java,Master's degree,2026-02-22,Synthetic demo data
+JOB-0053,Data Scientist,DataBridge,Coimbatore,3-5 years,Internship,3.8,Machine Learning;SQL;Python;NumPy;Statistics;Pandas,Bachelor's degree,2026-02-06,Synthetic demo data
+JOB-0054,Full Stack Developer,CloudNine Tech,Pune,5+ years,Internship,13.4,Excel;JavaScript;SQL;Node.js;Git;React;CSS;Pandas;HTML;Machine Learning,Any degree,2026-03-13,Synthetic demo data
+JOB-0055,Full Stack Developer,Nova Solutions,Remote,Fresher,Internship,21.3,Git;SQL;HTML;Node.js;CSS;JavaScript;React,Master's degree,2026-03-07,Synthetic demo data
+JOB-0056,Data Analyst,CloudNine Tech,Mumbai,5+ years,Internship,13.2,Python;Excel;Pandas;SQL;Node.js;Power BI;Tableau;Statistics,Bachelor's degree,2025-11-16,Synthetic demo data
+JOB-0057,Business Analyst,BluePeak Systems,Hyderabad,Fresher,Contract,22.9,Tableau;Python;Statistics;Excel;Power BI;SQL,Any degree,2026-07-18,Synthetic demo data
+JOB-0058,Frontend Developer,CloudNine Tech,Delhi,1-3 years,Internship,13.7,Statistics;HTML;JavaScript;Git;Power BI;React;CSS,Bachelor's degree,2026-08-30,Synthetic demo data
+JOB-0059,Software Developer,Orbit Analytics,Pune,3-5 years,Internship,19.0,Node.js;Python;Machine Learning;Git;Power BI;SQL;JavaScript;Docker;Java,Master's degree,2026-02-13,Synthetic demo data
+JOB-0060,Machine Learning Engineer,FutureWorks,Kochi,5+ years,Contract,23.8,NumPy;Python;Docker;Tableau;Pandas;AWS;Machine Learning,Any degree,2026-07-19,Synthetic demo data
+JOB-0061,Frontend Developer,BluePeak Systems,Remote,5+ years,Full-time,18.2,React;Git;JavaScript;CSS;HTML,Master's degree,2025-11-03,Synthetic demo data
+JOB-0062,Python Developer,BluePeak Systems,Pune,5+ years,Contract,16.2,Python;Git;NumPy;AWS;SQL;Docker,Master's degree,2025-12-31,Synthetic demo data
+JOB-0063,Data Analyst,Nova Solutions,Chennai,Fresher,Contract,6.5,Power BI;SQL;Tableau;Pandas;Python;Statistics;Excel,Master's degree,2026-09-20,Synthetic demo data
+JOB-0064,Data Analyst,CloudNine Tech,Bengaluru,Fresher,Internship,21.3,Tableau;SQL;Python;Pandas;AWS;Excel;Power BI;HTML;Statistics,Any degree,2025-10-20,Synthetic demo data
+JOB-0065,Web Developer,BluePeak Systems,Kochi,3-5 years,Internship,9.3,Git;Java;CSS;SQL;HTML;JavaScript;React;Node.js;Excel,Master's degree,2025-10-16,Synthetic demo data
+JOB-0066,Software Developer,Evergreen Digital,Coimbatore,5+ years,Contract,3.2,Java;Machine Learning;JavaScript;SQL;Docker;Git;NumPy;Python;HTML,Any degree,2026-09-09,Synthetic demo data
+JOB-0067,Business Analyst,BluePeak Systems,Coimbatore,3-5 years,Contract,3.7,Statistics;Excel;Tableau;Power BI;Git;NumPy;SQL;HTML,Master's degree,2026-07-29,Synthetic demo data
+JOB-0068,Data Scientist,CloudNine Tech,Mumbai,5+ years,Contract,18.7,Python;SQL;Pandas;Java;NumPy;HTML;Machine Learning;Statistics,Master's degree,2026-08-07,Synthetic demo data
+JOB-0069,Frontend Developer,FutureWorks,Chennai,5+ years,Full-time,8.6,JavaScript;React;CSS;Git;HTML,Bachelor's degree,2026-02-14,Synthetic demo data
+JOB-0070,Machine Learning Engineer,DataBridge,Chennai,5+ years,Internship,9.3,NumPy;AWS;SQL;Pandas;Machine Learning;Node.js;Python;Docker,Master's degree,2026-08-06,Synthetic demo data
+JOB-0071,Python Developer,DataBridge,Remote,1-3 years,Contract,12.5,Git;AWS;NumPy;Docker;SQL;Python,Any degree,2025-10-13,Synthetic demo data
+JOB-0072,Full Stack Developer,DataBridge,Pune,Fresher,Internship,10.7,SQL;Node.js;React;Pandas;Excel;JavaScript;CSS;Git;Statistics;HTML,Any degree,2026-04-04,Synthetic demo data
+JOB-0073,Data Analyst,DataBridge,Bengaluru,1-3 years,Full-time,20.4,Python;Git;CSS;SQL;Tableau;Pandas;Statistics;Power BI;Excel;HTML,Any degree,2026-06-20,Synthetic demo data
+JOB-0074,Business Analyst,CloudNine Tech,Remote,3-5 years,Full-time,5.3,Git;Tableau;Statistics;Excel;SQL;Power BI,Bachelor's degree,2026-07-29,Synthetic demo data
+JOB-0075,Data Analyst,BluePeak Systems,Chennai,5+ years,Contract,19.3,Tableau;Power BI;NumPy;Pandas;Git;Python;Excel;SQL;Statistics,Any degree,2025-12-05,Synthetic demo data
+JOB-0076,Data Scientist,Nova Solutions,Chennai,5+ years,Internship,22.1,Node.js;Statistics;Machine Learning;Excel;Power BI;SQL;Pandas;NumPy;Python,Bachelor's degree,2026-08-24,Synthetic demo data
+JOB-0077,Machine Learning Engineer,Orbit Analytics,Remote,5+ years,Full-time,19.7,Python;Pandas;Excel;Docker;AWS;NumPy;Machine Learning,Bachelor's degree,2025-11-03,Synthetic demo data
+JOB-0078,Full Stack Developer,BluePeak Systems,Pune,5+ years,Contract,17.0,JavaScript;Node.js;Git;SQL;CSS;React;HTML;Pandas,Master's degree,2026-07-18,Synthetic demo data
+JOB-0079,Frontend Developer,BluePeak Systems,Pune,1-3 years,Internship,4.3,CSS;HTML;React;Git;JavaScript,Any degree,2025-12-21,Synthetic demo data
+JOB-0080,Machine Learning Engineer,Evergreen Digital,Mumbai,3-5 years,Full-time,15.1,Machine Learning;Python;AWS;Docker;NumPy;Pandas,Bachelor's degree,2026-07-17,Synthetic demo data
+JOB-0081,Frontend Developer,DataBridge,Delhi,Fresher,Internship,22.5,React;HTML;JavaScript;Docker;Git;CSS,Any degree,2026-05-21,Synthetic demo data
+JOB-0082,Data Analyst,BluePeak Systems,Bengaluru,Fresher,Full-time,18.7,Statistics;Power BI;HTML;Excel;SQL;Pandas;Python;Tableau,Bachelor's degree,2026-03-26,Synthetic demo data
+JOB-0083,Backend Developer,Evergreen Digital,Kochi,5+ years,Contract,15.7,Tableau;Node.js;SQL;Git;HTML;NumPy;Python;Java;AWS;Docker,Master's degree,2026-05-18,Synthetic demo data
+JOB-0084,Web Developer,Evergreen Digital,Coimbatore,1-3 years,Contract,23.7,Node.js;Git;CSS;HTML;React;JavaScript,Bachelor's degree,2026-10-01,Synthetic demo data
+JOB-0085,Web Developer,CloudNine Tech,Bengaluru,5+ years,Internship,17.8,React;Git;CSS;Excel;HTML;Java;JavaScript;Node.js,Any degree,2025-12-22,Synthetic demo data
+JOB-0086,Machine Learning Engineer,BluePeak Systems,Pune,5+ years,Internship,11.5,NumPy;Machine Learning;AWS;Docker;Python;Pandas,Any degree,2026-03-05,Synthetic demo data
+JOB-0087,Software Developer,FutureWorks,Chennai,5+ years,Full-time,8.1,JavaScript;Python;Docker;SQL;Java;Git,Any degree,2026-03-13,Synthetic demo data
+JOB-0088,Full Stack Developer,BluePeak Systems,Remote,Fresher,Internship,13.7,Node.js;JavaScript;Git;HTML;SQL;CSS;React,Master's degree,2026-04-08,Synthetic demo data
+JOB-0089,Python Developer,BluePeak Systems,Bengaluru,5+ years,Contract,18.8,Docker;Python;NumPy;AWS;Excel;SQL;Git,Any degree,2026-02-17,Synthetic demo data
+JOB-0090,Business Analyst,Evergreen Digital,Coimbatore,3-5 years,Internship,4.6,Statistics;Power BI;Java;Pandas;Excel;Tableau;SQL,Master's degree,2026-02-15,Synthetic demo data
+JOB-0091,Data Analyst,Orbit Analytics,Remote,Fresher,Contract,22.1,Power BI;Excel;Statistics;Tableau;SQL;Pandas;Python,Any degree,2025-11-05,Synthetic demo data
+JOB-0092,Web Developer,CloudNine Tech,Coimbatore,1-3 years,Internship,12.2,CSS;Node.js;Git;Power BI;SQL;React;HTML;JavaScript,Master's degree,2026-01-09,Synthetic demo data
+JOB-0093,Full Stack Developer,FutureWorks,Chennai,3-5 years,Full-time,14.7,HTML;JavaScript;Node.js;Git;NumPy;React;CSS;SQL,Master's degree,2026-05-12,Synthetic demo data
+JOB-0094,Software Developer,CloudNine Tech,Chennai,3-5 years,Internship,10.9,Node.js;Git;JavaScript;SQL;Python;Docker;Java,Master's degree,2026-07-31,Synthetic demo data
+JOB-0095,Full Stack Developer,Evergreen Digital,Bengaluru,1-3 years,Contract,22.9,Node.js;HTML;JavaScript;CSS;React;Git;SQL,Master's degree,2026-06-28,Synthetic demo data
+JOB-0096,Web Developer,CloudNine Tech,Delhi,1-3 years,Full-time,6.8,React;CSS;Git;Node.js;Excel;JavaScript;HTML,Any degree,2025-11-19,Synthetic demo data
+JOB-0097,Python Developer,Evergreen Digital,Kochi,1-3 years,Contract,17.2,CSS;Python;NumPy;Git;Machine Learning;SQL;AWS;Node.js;Docker,Any degree,2026-02-21,Synthetic demo data
+JOB-0098,Frontend Developer,Evergreen Digital,Coimbatore,5+ years,Contract,14.6,Tableau;CSS;JavaScript;HTML;React;NumPy;Git,Bachelor's degree,2025-10-05,Synthetic demo data
+JOB-0099,Full Stack Developer,Nova Solutions,Chennai,1-3 years,Contract,21.6,React;SQL;Node.js;Git;HTML;JavaScript;CSS,Bachelor's degree,2026-03-06,Synthetic demo data
+JOB-0100,Data Analyst,CloudNine Tech,Bengaluru,Fresher,Contract,22.3,Power BI;Git;Tableau;Node.js;Python;SQL;Java;Statistics;Excel;Pandas,Master's degree,2025-10-13,Synthetic demo data
+JOB-0101,Python Developer,DataBridge,Mumbai,Fresher,Full-time,8.0,Pandas;AWS;React;Docker;NumPy;CSS;SQL;Python;Git,Any degree,2025-11-20,Synthetic demo data
+JOB-0102,Frontend Developer,DataBridge,Bengaluru,3-5 years,Contract,3.0,HTML;Git;CSS;React;JavaScript,Master's degree,2026-06-03,Synthetic demo data
+JOB-0103,Business Analyst,Aster Labs,Delhi,3-5 years,Contract,18.7,Tableau;Docker;Python;Pandas;Excel;Power BI;Statistics;SQL,Master's degree,2026-08-31,Synthetic demo data
+JOB-0104,Machine Learning Engineer,FutureWorks,Remote,3-5 years,Internship,6.7,Machine Learning;Pandas;AWS;NumPy;Python;Tableau;Docker,Any degree,2026-02-09,Synthetic demo data
+JOB-0105,Frontend Developer,DataBridge,Coimbatore,1-3 years,Full-time,9.6,CSS;Tableau;Git;React;JavaScript;HTML,Master's degree,2026-01-14,Synthetic demo data
+JOB-0106,Backend Developer,Nova Solutions,Delhi,5+ years,Contract,10.1,Node.js;Java;Machine Learning;JavaScript;SQL;CSS;Git;Python;AWS;Docker,Bachelor's degree,2026-01-23,Synthetic demo data
+JOB-0107,Frontend Developer,Evergreen Digital,Pune,Fresher,Full-time,9.9,Power BI;Git;HTML;Tableau;React;JavaScript;CSS,Master's degree,2026-05-01,Synthetic demo data
+JOB-0108,Frontend Developer,BluePeak Systems,Delhi,3-5 years,Internship,19.8,Git;Pandas;HTML;Statistics;CSS;JavaScript;React;Excel,Any degree,2026-07-15,Synthetic demo data
+JOB-0109,Data Analyst,FutureWorks,Delhi,Fresher,Internship,6.2,Tableau;Power BI;Python;Statistics;Pandas;Excel;SQL;NumPy,Master's degree,2026-03-29,Synthetic demo data
+JOB-0110,Machine Learning Engineer,CloudNine Tech,Kochi,5+ years,Internship,5.5,Excel;AWS;Python;Machine Learning;SQL;NumPy;Pandas;Docker;Git,Master's degree,2025-10-09,Synthetic demo data
+JOB-0111,Frontend Developer,BluePeak Systems,Kochi,1-3 years,Internship,12.3,Git;Python;JavaScript;HTML;React;CSS,Bachelor's degree,2025-10-20,Synthetic demo data
+JOB-0112,Machine Learning Engineer,BluePeak Systems,Hyderabad,1-3 years,Full-time,19.6,Excel;Python;Pandas;Tableau;Docker;Machine Learning;NumPy;AWS,Bachelor's degree,2026-04-03,Synthetic demo data
+JOB-0113,Full Stack Developer,Nova Solutions,Chennai,1-3 years,Contract,16.5,Git;Power BI;SQL;Node.js;React;Python;JavaScript;HTML;CSS,Master's degree,2026-02-08,Synthetic demo data
+JOB-0114,Full Stack Developer,Evergreen Digital,Bengaluru,1-3 years,Contract,22.6,HTML;Git;Excel;SQL;JavaScript;Node.js;React;Python;CSS,Bachelor's degree,2026-04-10,Synthetic demo data
+JOB-0115,Full Stack Developer,CloudNine Tech,Bengaluru,3-5 years,Internship,3.9,Git;Machine Learning;Docker;JavaScript;CSS;SQL;HTML;Node.js;React,Bachelor's degree,2026-08-24,Synthetic demo data
+JOB-0116,Data Analyst,Orbit Analytics,Hyderabad,5+ years,Contract,12.5,React;Excel;Git;Python;Tableau;Statistics;Power BI;SQL;Pandas,Any degree,2026-09-04,Synthetic demo data
+JOB-0117,Python Developer,Nova Solutions,Bengaluru,3-5 years,Internship,14.8,Python;Pandas;Statistics;Node.js;SQL;Git;AWS;NumPy;Docker,Master's degree,2026-06-03,Synthetic demo data
+JOB-0118,Frontend Developer,BluePeak Systems,Coimbatore,3-5 years,Contract,21.1,HTML;Git;JavaScript;React;CSS,Master's degree,2026-05-30,Synthetic demo data
+JOB-0119,Python Developer,Orbit Analytics,Coimbatore,Fresher,Contract,13.6,Python;SQL;NumPy;AWS;Machine Learning;Git;React;Docker,Bachelor's degree,2026-06-16,Synthetic demo data
+JOB-0120,Business Analyst,BluePeak Systems,Delhi,1-3 years,Contract,18.3,React;Excel;SQL;AWS;Statistics;Tableau;Power BI,Master's degree,2026-03-31,Synthetic demo data
+JOB-0121,Data Analyst,BluePeak Systems,Bengaluru,Fresher,Contract,10.8,Pandas;Excel;Python;NumPy;AWS;Node.js;SQL;Tableau;Statistics;Power BI,Master's degree,2025-12-23,Synthetic demo data
+JOB-0122,Machine Learning Engineer,CloudNine Tech,Pune,5+ years,Internship,12.6,Machine Learning;NumPy;Docker;Python;Pandas;HTML;AWS,Any degree,2026-01-14,Synthetic demo data
+JOB-0123,Python Developer,Evergreen Digital,Kochi,Fresher,Contract,10.0,Python;Git;React;NumPy;Machine Learning;AWS;Docker;SQL,Bachelor's degree,2026-03-05,Synthetic demo data
+JOB-0124,Business Analyst,Aster Labs,Kochi,1-3 years,Internship,16.2,Power BI;Statistics;SQL;Tableau;Excel;React;Python,Any degree,2026-03-24,Synthetic demo data
+JOB-0125,Python Developer,FutureWorks,Delhi,1-3 years,Contract,17.5,SQL;Docker;CSS;Git;Python;NumPy;AWS,Master's degree,2026-01-21,Synthetic demo data
+JOB-0126,Business Analyst,Nova Solutions,Pune,1-3 years,Contract,22.2,Excel;Python;Tableau;AWS;React;SQL;Statistics;Power BI,Master's degree,2025-12-29,Synthetic demo data
+JOB-0127,Machine Learning Engineer,Evergreen Digital,Hyderabad,5+ years,Contract,13.1,Power BI;SQL;Python;Docker;AWS;NumPy;Machine Learning;Pandas,Any degree,2026-05-17,Synthetic demo data
+JOB-0128,Software Developer,CloudNine Tech,Mumbai,Fresher,Contract,23.1,Java;SQL;Python;Git;JavaScript;Docker,Bachelor's degree,2026-04-10,Synthetic demo data
+JOB-0129,Frontend Developer,CloudNine Tech,Chennai,1-3 years,Full-time,4.1,JavaScript;Statistics;React;CSS;Git;Pandas;HTML,Any degree,2026-06-11,Synthetic demo data
+JOB-0130,Web Developer,BluePeak Systems,Bengaluru,Fresher,Internship,23.5,Git;CSS;Node.js;JavaScript;React;HTML,Bachelor's degree,2026-03-10,Synthetic demo data
+JOB-0131,Frontend Developer,Aster Labs,Bengaluru,5+ years,Full-time,22.6,HTML;React;Java;Git;JavaScript;Machine Learning;CSS;SQL,Bachelor's degree,2026-03-15,Synthetic demo data
+JOB-0132,Frontend Developer,FutureWorks,Mumbai,5+ years,Internship,14.4,Statistics;React;HTML;Git;JavaScript;CSS,Master's degree,2026-07-28,Synthetic demo data
+JOB-0133,Full Stack Developer,Evergreen Digital,Hyderabad,1-3 years,Internship,21.0,React;Node.js;Git;JavaScript;HTML;Java;Docker;Machine Learning;CSS;SQL,Master's degree,2026-02-28,Synthetic demo data
+JOB-0134,Full Stack Developer,Nova Solutions,Hyderabad,5+ years,Contract,23.0,Node.js;SQL;JavaScript;Git;Docker;React;Pandas;CSS;HTML,Master's degree,2025-12-10,Synthetic demo data
+JOB-0135,Business Analyst,Aster Labs,Chennai,5+ years,Contract,6.4,SQL;Excel;Tableau;Statistics;Power BI,Any degree,2026-01-20,Synthetic demo data
+JOB-0136,Software Developer,DataBridge,Bengaluru,5+ years,Full-time,12.6,Python;Java;Git;Docker;SQL;JavaScript,Any degree,2026-03-27,Synthetic demo data
+JOB-0137,Backend Developer,Aster Labs,Remote,1-3 years,Internship,14.3,JavaScript;Node.js;Git;Python;SQL;AWS;Docker;React;Java;Statistics,Bachelor's degree,2026-04-20,Synthetic demo data
+JOB-0138,Full Stack Developer,Orbit Analytics,Coimbatore,5+ years,Internship,19.9,SQL;Node.js;CSS;Power BI;React;JavaScript;Git;Docker;Java;HTML,Any degree,2026-09-23,Synthetic demo data
+JOB-0139,Backend Developer,Aster Labs,Mumbai,5+ years,Full-time,19.1,AWS;JavaScript;Git;Docker;CSS;SQL;Node.js;Python;Java,Any degree,2025-11-08,Synthetic demo data
+JOB-0140,Backend Developer,BluePeak Systems,Bengaluru,5+ years,Internship,5.7,Pandas;Node.js;SQL;Java;Docker;AWS;Python;Power BI;Git,Bachelor's degree,2026-10-03,Synthetic demo data
+JOB-0141,Data Analyst,Evergreen Digital,Hyderabad,Fresher,Full-time,20.0,Python;SQL;Tableau;Power BI;Statistics;Excel;Machine Learning;Node.js;Pandas,Master's degree,2025-11-24,Synthetic demo data
+JOB-0142,Data Analyst,DataBridge,Coimbatore,5+ years,Contract,7.9,Git;Statistics;Python;Power BI;Pandas;Tableau;SQL;Excel,Bachelor's degree,2026-09-06,Synthetic demo data
+JOB-0143,Python Developer,DataBridge,Delhi,3-5 years,Contract,4.3,React;Python;Docker;Git;SQL;Java;AWS;NumPy,Any degree,2026-07-07,Synthetic demo data
+JOB-0144,Backend Developer,DataBridge,Hyderabad,3-5 years,Internship,6.0,Docker;Pandas;Python;CSS;SQL;Java;Node.js;Git;AWS;NumPy,Master's degree,2026-09-05,Synthetic demo data
+JOB-0145,Full Stack Developer,BluePeak Systems,Remote,1-3 years,Full-time,8.6,Pandas;Node.js;SQL;JavaScript;Python;HTML;Statistics;React;Git;CSS,Any degree,2025-11-29,Synthetic demo data
+JOB-0146,Business Analyst,Orbit Analytics,Hyderabad,3-5 years,Contract,23.1,Tableau;Statistics;Power BI;SQL;Excel,Bachelor's degree,2026-06-18,Synthetic demo data
+JOB-0147,Web Developer,Nova Solutions,Hyderabad,3-5 years,Contract,11.0,Node.js;HTML;JavaScript;CSS;React;Git,Any degree,2025-11-06,Synthetic demo data
+JOB-0148,Machine Learning Engineer,FutureWorks,Delhi,Fresher,Internship,21.1,AWS;Machine Learning;Docker;NumPy;Java;Python;Pandas;JavaScript,Any degree,2026-07-22,Synthetic demo data
+JOB-0149,Data Analyst,Orbit Analytics,Remote,3-5 years,Contract,19.0,Node.js;SQL;Power BI;Statistics;Python;NumPy;Excel;Tableau;Pandas,Master's degree,2025-11-10,Synthetic demo data
+JOB-0150,Frontend Developer,Aster Labs,Chennai,Fresher,Full-time,11.7,Statistics;Node.js;JavaScript;React;Git;Excel;HTML;CSS,Any degree,2026-06-08,Synthetic demo data
+JOB-0151,Data Scientist,Orbit Analytics,Coimbatore,Fresher,Internship,14.6,SQL;AWS;Python;Statistics;Pandas;NumPy;Machine Learning,Bachelor's degree,2026-09-26,Synthetic demo data
+JOB-0152,Full Stack Developer,DataBridge,Hyderabad,3-5 years,Contract,8.6,SQL;React;CSS;Node.js;Machine Learning;HTML;Python;Git;JavaScript,Master's degree,2026-08-25,Synthetic demo data
+JOB-0153,Machine Learning Engineer,Nova Solutions,Remote,5+ years,Full-time,16.4,HTML;NumPy;Machine Learning;SQL;Power BI;Python;Docker;AWS;Pandas,Any degree,2026-07-09,Synthetic demo data
+JOB-0154,Data Scientist,BluePeak Systems,Mumbai,Fresher,Full-time,22.5,Statistics;React;SQL;Pandas;NumPy;Java;HTML;Python;Machine Learning,Master's degree,2026-09-26,Synthetic demo data
+JOB-0155,Web Developer,Nova Solutions,Remote,3-5 years,Contract,18.9,CSS;Git;Node.js;JavaScript;HTML;React;Tableau,Bachelor's degree,2025-10-17,Synthetic demo data
+JOB-0156,Data Scientist,Evergreen Digital,Kochi,5+ years,Full-time,10.5,NumPy;SQL;CSS;Pandas;Statistics;Python;Machine Learning;AWS,Master's degree,2026-02-25,Synthetic demo data
+JOB-0157,Python Developer,Nova Solutions,Pune,3-5 years,Full-time,4.9,AWS;Excel;NumPy;JavaScript;React;SQL;Python;Git;Docker,Master's degree,2026-02-19,Synthetic demo data
+JOB-0158,Machine Learning Engineer,BluePeak Systems,Pune,Fresher,Internship,15.6,Excel;NumPy;Python;AWS;Docker;Pandas;Git;Machine Learning,Master's degree,2026-03-21,Synthetic demo data
+JOB-0159,Data Analyst,Evergreen Digital,Mumbai,3-5 years,Contract,6.1,Statistics;Python;SQL;JavaScript;React;Pandas;Tableau;Power BI;Excel,Bachelor's degree,2026-02-24,Synthetic demo data
+JOB-0160,Software Developer,CloudNine Tech,Mumbai,Fresher,Contract,10.0,SQL;Java;Pandas;Machine Learning;Git;CSS;Python;Docker;JavaScript,Any degree,2026-03-24,Synthetic demo data
+JOB-0161,Machine Learning Engineer,Nova Solutions,Pune,3-5 years,Internship,17.6,JavaScript;Python;Docker;Pandas;Machine Learning;Node.js;SQL;AWS;NumPy,Master's degree,2025-12-14,Synthetic demo data
+JOB-0162,Web Developer,Aster Labs,Kochi,1-3 years,Contract,19.8,React;Git;Machine Learning;CSS;Node.js;HTML;JavaScript;Pandas,Any degree,2026-08-30,Synthetic demo data
+JOB-0163,Backend Developer,Nova Solutions,Remote,5+ years,Internship,3.8,JavaScript;Java;Machine Learning;AWS;Python;Node.js;HTML;Git;SQL;Docker,Master's degree,2025-10-10,Synthetic demo data
+JOB-0164,Full Stack Developer,Nova Solutions,Pune,5+ years,Full-time,3.2,React;Git;Node.js;SQL;CSS;HTML;JavaScript,Master's degree,2026-06-13,Synthetic demo data
+JOB-0165,Full Stack Developer,Orbit Analytics,Chennai,3-5 years,Contract,22.3,CSS;JavaScript;Power BI;HTML;Node.js;Git;React;SQL,Bachelor's degree,2026-08-06,Synthetic demo data
+JOB-0166,Python Developer,BluePeak Systems,Kochi,5+ years,Contract,4.4,Python;SQL;NumPy;Docker;AWS;Git;JavaScript;Machine Learning,Bachelor's degree,2025-10-06,Synthetic demo data
+JOB-0167,Data Scientist,CloudNine Tech,Remote,1-3 years,Contract,14.8,Pandas;NumPy;SQL;Machine Learning;Python;Statistics,Master's degree,2026-06-08,Synthetic demo data
+JOB-0168,Backend Developer,Nova Solutions,Coimbatore,1-3 years,Full-time,8.8,AWS;SQL;HTML;Java;Docker;Python;Node.js;Git,Any degree,2026-09-02,Synthetic demo data
+JOB-0169,Business Analyst,DataBridge,Kochi,Fresher,Contract,17.1,Excel;Power BI;Tableau;SQL;Statistics,Master's degree,2026-01-07,Synthetic demo data
+JOB-0170,Machine Learning Engineer,BluePeak Systems,Bengaluru,3-5 years,Full-time,8.0,Python;Node.js;SQL;Tableau;AWS;Pandas;NumPy;Docker;Machine Learning,Bachelor's degree,2026-07-03,Synthetic demo data
+JOB-0171,Machine Learning Engineer,Nova Solutions,Bengaluru,5+ years,Internship,14.3,Python;Docker;NumPy;Machine Learning;AWS;React;Pandas,Any degree,2026-07-08,Synthetic demo data
+JOB-0172,Full Stack Developer,FutureWorks,Coimbatore,5+ years,Full-time,7.1,SQL;JavaScript;Power BI;React;CSS;Git;HTML;Node.js,Master's degree,2025-12-21,Synthetic demo data
+JOB-0173,Full Stack Developer,Evergreen Digital,Hyderabad,3-5 years,Full-time,19.4,Power BI;SQL;React;HTML;Git;Node.js;JavaScript;CSS;Tableau;Pandas,Any degree,2026-01-24,Synthetic demo data
+JOB-0174,Full Stack Developer,Orbit Analytics,Remote,1-3 years,Contract,5.2,HTML;SQL;React;Git;CSS;JavaScript;Node.js,Any degree,2026-05-31,Synthetic demo data
+JOB-0175,Software Developer,BluePeak Systems,Hyderabad,1-3 years,Internship,15.3,JavaScript;Python;Java;Docker;SQL;Git,Master's degree,2025-10-06,Synthetic demo data
+JOB-0176,Business Analyst,CloudNine Tech,Pune,3-5 years,Contract,15.0,Statistics;Docker;React;Power BI;Excel;SQL;NumPy;Tableau,Any degree,2025-10-22,Synthetic demo data
+JOB-0177,Data Scientist,FutureWorks,Hyderabad,5+ years,Contract,6.0,Pandas;SQL;Java;NumPy;Machine Learning;Statistics;Python,Any degree,2026-05-20,Synthetic demo data
+JOB-0178,Backend Developer,BluePeak Systems,Kochi,3-5 years,Full-time,19.7,Statistics;Python;Java;Power BI;Node.js;SQL;AWS;Docker;Excel;Git,Master's degree,2026-06-15,Synthetic demo data
+JOB-0179,Backend Developer,FutureWorks,Coimbatore,Fresher,Full-time,16.1,Python;Node.js;Power BI;Java;AWS;Git;SQL;Docker,Master's degree,2026-09-26,Synthetic demo data
+JOB-0180,Data Scientist,Evergreen Digital,Bengaluru,3-5 years,Full-time,16.7,NumPy;SQL;Statistics;Machine Learning;JavaScript;Python;Pandas,Master's degree,2026-08-23,Synthetic demo data
+JOB-0181,Machine Learning Engineer,BluePeak Systems,Coimbatore,1-3 years,Contract,4.6,AWS;Python;CSS;Machine Learning;NumPy;Docker;Pandas,Any degree,2026-06-11,Synthetic demo data
+JOB-0182,Full Stack Developer,BluePeak Systems,Pune,3-5 years,Contract,5.9,Node.js;AWS;SQL;Tableau;NumPy;JavaScript;React;CSS;Git;HTML,Bachelor's degree,2025-11-10,Synthetic demo data
+JOB-0183,Python Developer,Orbit Analytics,Pune,1-3 years,Internship,18.7,Git;Docker;SQL;Python;NumPy;AWS,Master's degree,2025-11-23,Synthetic demo data
+JOB-0184,Frontend Developer,FutureWorks,Delhi,3-5 years,Full-time,8.2,React;Git;CSS;Docker;HTML;JavaScript,Any degree,2026-08-22,Synthetic demo data
+JOB-0185,Web Developer,Evergreen Digital,Coimbatore,1-3 years,Contract,11.1,HTML;React;JavaScript;Tableau;Git;AWS;CSS;Node.js,Bachelor's degree,2026-01-22,Synthetic demo data
+JOB-0186,Business Analyst,CloudNine Tech,Delhi,5+ years,Contract,14.5,Tableau;Power BI;SQL;Excel;Statistics,Bachelor's degree,2026-02-05,Synthetic demo data
+JOB-0187,Data Scientist,Aster Labs,Coimbatore,5+ years,Internship,9.0,Statistics;Pandas;Machine Learning;SQL;Python;NumPy,Any degree,2026-01-21,Synthetic demo data
+JOB-0188,Backend Developer,Nova Solutions,Chennai,3-5 years,Internship,12.2,AWS;Node.js;Pandas;Java;Git;React;Python;Docker;SQL;Excel,Bachelor's degree,2026-09-05,Synthetic demo data
+JOB-0189,Web Developer,Evergreen Digital,Bengaluru,Fresher,Full-time,17.9,CSS;Node.js;JavaScript;Git;HTML;React,Any degree,2026-09-29,Synthetic demo data
+JOB-0190,Python Developer,Nova Solutions,Mumbai,Fresher,Contract,18.0,Statistics;NumPy;Docker;Python;Machine Learning;Git;Power BI;SQL;AWS,Any degree,2025-11-17,Synthetic demo data
+JOB-0191,Data Scientist,BluePeak Systems,Chennai,1-3 years,Internship,13.7,Pandas;SQL;HTML;Statistics;Machine Learning;NumPy;JavaScript;Node.js;Python,Bachelor's degree,2026-09-28,Synthetic demo data
+JOB-0192,Web Developer,Aster Labs,Remote,5+ years,Full-time,9.8,CSS;Node.js;HTML;Git;JavaScript;React,Master's degree,2026-04-24,Synthetic demo data
+JOB-0193,Software Developer,CloudNine Tech,Hyderabad,Fresher,Contract,4.4,Python;Git;JavaScript;Java;SQL;Docker,Master's degree,2026-05-13,Synthetic demo data
+JOB-0194,Software Developer,DataBridge,Kochi,3-5 years,Internship,23.4,CSS;Docker;Git;JavaScript;Python;SQL;Java;Power BI,Bachelor's degree,2025-12-29,Synthetic demo data
+JOB-0195,Web Developer,FutureWorks,Coimbatore,5+ years,Internship,18.3,Node.js;Git;AWS;JavaScript;CSS;HTML;React,Bachelor's degree,2026-06-21,Synthetic demo data
+JOB-0196,Full Stack Developer,Nova Solutions,Pune,5+ years,Internship,4.8,SQL;Node.js;React;Git;CSS;HTML;JavaScript;Pandas,Bachelor's degree,2026-01-19,Synthetic demo data
+JOB-0197,Python Developer,Nova Solutions,Pune,3-5 years,Contract,8.7,Statistics;Docker;AWS;SQL;React;Git;NumPy;Excel;Python,Bachelor's degree,2026-06-23,Synthetic demo data
+JOB-0198,Python Developer,FutureWorks,Delhi,Fresher,Internship,10.5,AWS;SQL;Docker;NumPy;Python;Git,Bachelor's degree,2026-02-15,Synthetic demo data
+JOB-0199,Software Developer,CloudNine Tech,Chennai,1-3 years,Contract,11.3,Statistics;Python;Git;Java;CSS;JavaScript;Machine Learning;Docker;SQL,Bachelor's degree,2025-10-23,Synthetic demo data
+JOB-0200,Software Developer,BluePeak Systems,Bengaluru,Fresher,Full-time,4.3,SQL;JavaScript;Java;Python;Docker;Git;AWS;Excel,Bachelor's degree,2026-07-30,Synthetic demo data
+JOB-0201,Web Developer,FutureWorks,Chennai,Fresher,Contract,4.1,Docker;JavaScript;Git;React;Statistics;NumPy;HTML;CSS;Node.js,Any degree,2026-02-25,Synthetic demo data
+JOB-0202,Backend Developer,DataBridge,Mumbai,5+ years,Contract,21.5,Git;Docker;Python;CSS;Pandas;Statistics;Java;Node.js;AWS;SQL,Master's degree,2026-09-03,Synthetic demo data
+JOB-0203,Data Scientist,Nova Solutions,Pune,5+ years,Internship,19.4,Pandas;Python;Statistics;Docker;NumPy;SQL;Machine Learning;Java,Master's degree,2025-12-19,Synthetic demo data
+JOB-0204,Full Stack Developer,Orbit Analytics,Remote,3-5 years,Internship,24.0,Git;React;SQL;Pandas;HTML;Node.js;Machine Learning;JavaScript;CSS,Bachelor's degree,2026-08-14,Synthetic demo data
+JOB-0205,Web Developer,FutureWorks,Bengaluru,1-3 years,Full-time,15.4,Machine Learning;React;JavaScript;CSS;HTML;Git;Node.js,Any degree,2025-10-12,Synthetic demo data
+JOB-0206,Machine Learning Engineer,Orbit Analytics,Remote,3-5 years,Full-time,13.3,Pandas;Python;AWS;Machine Learning;NumPy;Docker,Bachelor's degree,2026-09-06,Synthetic demo data
+JOB-0207,Web Developer,CloudNine Tech,Pune,1-3 years,Contract,4.3,CSS;AWS;Git;JavaScript;HTML;React;Node.js,Bachelor's degree,2025-12-08,Synthetic demo data
+JOB-0208,Python Developer,BluePeak Systems,Pune,3-5 years,Contract,5.9,Docker;NumPy;Git;Python;SQL;AWS,Bachelor's degree,2026-02-23,Synthetic demo data
+JOB-0209,Frontend Developer,Nova Solutions,Mumbai,3-5 years,Full-time,6.7,HTML;React;JavaScript;CSS;Statistics;Excel;Git,Bachelor's degree,2025-10-10,Synthetic demo data
+JOB-0210,Business Analyst,Orbit Analytics,Bengaluru,3-5 years,Internship,4.6,Tableau;Excel;React;SQL;NumPy;AWS;Statistics;Power BI,Master's degree,2026-04-24,Synthetic demo data
+JOB-0211,Python Developer,DataBridge,Hyderabad,Fresher,Contract,8.4,AWS;Git;Python;Docker;SQL;NumPy,Bachelor's degree,2026-10-04,Synthetic demo data
+JOB-0212,Data Analyst,CloudNine Tech,Kochi,Fresher,Full-time,9.2,JavaScript;Statistics;Excel;SQL;Power BI;Tableau;Python;Docker;Machine Learning;Pandas,Master's degree,2026-05-24,Synthetic demo data
+JOB-0213,Data Scientist,BluePeak Systems,Pune,5+ years,Internship,3.7,NumPy;SQL;Python;Pandas;Machine Learning;Statistics,Any degree,2026-07-12,Synthetic demo data
+JOB-0214,Business Analyst,Evergreen Digital,Hyderabad,Fresher,Full-time,11.3,Excel;CSS;Statistics;Power BI;Tableau;AWS;SQL;Docker,Any degree,2026-01-26,Synthetic demo data
+JOB-0215,Python Developer,Orbit Analytics,Hyderabad,Fresher,Full-time,7.3,NumPy;Git;AWS;Docker;Python;SQL,Any degree,2026-05-08,Synthetic demo data
+JOB-0216,Data Scientist,Nova Solutions,Pune,1-3 years,Contract,3.9,CSS;Machine Learning;NumPy;Pandas;Python;Statistics;SQL;Java;Git,Master's degree,2026-02-08,Synthetic demo data
+JOB-0217,Software Developer,Nova Solutions,Hyderabad,Fresher,Contract,20.2,SQL;Machine Learning;Git;JavaScript;Python;Java;Docker,Master's degree,2026-01-03,Synthetic demo data
+JOB-0218,Frontend Developer,CloudNine Tech,Chennai,5+ years,Full-time,22.9,HTML;Git;Pandas;React;JavaScript;CSS,Bachelor's degree,2026-06-18,Synthetic demo data
+JOB-0219,Web Developer,Evergreen Digital,Pune,Fresher,Full-time,11.2,Node.js;Git;JavaScript;CSS;AWS;HTML;React,Master's degree,2025-12-26,Synthetic demo data
+JOB-0220,Machine Learning Engineer,CloudNine Tech,Bengaluru,Fresher,Full-time,14.8,NumPy;Machine Learning;Power BI;Pandas;AWS;Docker;React;Python,Bachelor's degree,2026-05-11,Synthetic demo data
+JOB-0221,Full Stack Developer,Nova Solutions,Bengaluru,5+ years,Full-time,11.3,CSS;HTML;SQL;JavaScript;React;Machine Learning;Node.js;Pandas;Git,Master's degree,2025-10-16,Synthetic demo data
+JOB-0222,Web Developer,FutureWorks,Mumbai,3-5 years,Contract,20.7,Node.js;HTML;CSS;JavaScript;React;Git,Any degree,2025-10-19,Synthetic demo data
+JOB-0223,Data Scientist,BluePeak Systems,Hyderabad,5+ years,Full-time,22.2,Python;NumPy;Machine Learning;Docker;Pandas;SQL;Statistics,Master's degree,2026-01-29,Synthetic demo data
+JOB-0224,Full Stack Developer,CloudNine Tech,Hyderabad,1-3 years,Full-time,8.2,AWS;Git;JavaScript;React;Node.js;SQL;Python;HTML;CSS,Master's degree,2026-09-09,Synthetic demo data
+JOB-0225,Machine Learning Engineer,Aster Labs,Hyderabad,3-5 years,Contract,15.5,Machine Learning;Python;Java;Docker;AWS;Pandas;NumPy,Bachelor's degree,2026-02-04,Synthetic demo data
+JOB-0226,Business Analyst,Aster Labs,Bengaluru,1-3 years,Full-time,16.6,Tableau;SQL;Statistics;Java;Excel;Power BI;Docker,Any degree,2026-06-21,Synthetic demo data
+JOB-0227,Software Developer,Evergreen Digital,Mumbai,5+ years,Contract,20.9,Statistics;Power BI;Git;Java;Docker;Python;JavaScript;SQL;AWS,Master's degree,2026-05-28,Synthetic demo data
+JOB-0228,Web Developer,Orbit Analytics,Chennai,3-5 years,Contract,16.5,React;Python;Statistics;Git;JavaScript;Node.js;HTML;CSS;Machine Learning,Master's degree,2026-05-24,Synthetic demo data
+JOB-0229,Software Developer,CloudNine Tech,Coimbatore,5+ years,Contract,8.4,Excel;JavaScript;SQL;Git;Java;Python;Docker,Master's degree,2026-03-11,Synthetic demo data
+JOB-0230,Backend Developer,Orbit Analytics,Pune,3-5 years,Full-time,20.7,SQL;Python;Node.js;Java;Git;AWS;Docker,Any degree,2026-07-04,Synthetic demo data
+JOB-0231,Software Developer,FutureWorks,Chennai,1-3 years,Contract,7.7,Docker;Java;JavaScript;SQL;Python;Git,Master's degree,2026-03-03,Synthetic demo data
+JOB-0232,Machine Learning Engineer,Orbit Analytics,Hyderabad,Fresher,Internship,11.0,Machine Learning;SQL;NumPy;Docker;Java;Python;Pandas;AWS,Master's degree,2026-03-07,Synthetic demo data
+JOB-0233,Data Analyst,CloudNine Tech,Chennai,5+ years,Contract,16.3,Pandas;Excel;SQL;Statistics;Tableau;Docker;Python;Power BI,Bachelor's degree,2026-04-27,Synthetic demo data
+JOB-0234,Data Analyst,Orbit Analytics,Chennai,1-3 years,Internship,12.1,Pandas;SQL;Statistics;Tableau;Excel;Python;Power BI,Master's degree,2026-03-12,Synthetic demo data
+JOB-0235,Backend Developer,DataBridge,Hyderabad,3-5 years,Contract,5.7,Statistics;Pandas;Git;Java;Docker;SQL;Python;AWS;Node.js;CSS,Master's degree,2026-01-20,Synthetic demo data
+JOB-0236,Business Analyst,Nova Solutions,Bengaluru,3-5 years,Contract,10.5,Docker;Tableau;SQL;Statistics;Power BI;Excel;CSS,Bachelor's degree,2026-07-12,Synthetic demo data
+JOB-0237,Backend Developer,CloudNine Tech,Chennai,3-5 years,Internship,16.7,Node.js;Python;SQL;Docker;AWS;Git;Java,Bachelor's degree,2026-03-26,Synthetic demo data
+JOB-0238,Software Developer,Aster Labs,Chennai,5+ years,Contract,11.0,Python;Git;SQL;JavaScript;Java;Docker,Any degree,2026-05-28,Synthetic demo data
+JOB-0239,Frontend Developer,Evergreen Digital,Bengaluru,5+ years,Full-time,13.7,React;Git;HTML;CSS;JavaScript;Java,Any degree,2026-08-05,Synthetic demo data
+JOB-0240,Software Developer,Evergreen Digital,Remote,1-3 years,Contract,17.8,Docker;JavaScript;SQL;Python;Git;Java,Master's degree,2026-07-14,Synthetic demo data
+JOB-0241,Data Analyst,BluePeak Systems,Chennai,3-5 years,Internship,7.9,Excel;Python;Tableau;Java;Pandas;Git;Statistics;Machine Learning;SQL;Power BI,Master's degree,2026-05-22,Synthetic demo data
+JOB-0242,Frontend Developer,FutureWorks,Pune,5+ years,Internship,5.4,CSS;React;Git;HTML;JavaScript,Bachelor's degree,2026-09-30,Synthetic demo data
+JOB-0243,Python Developer,FutureWorks,Pune,1-3 years,Full-time,11.4,Git;Python;NumPy;Machine Learning;AWS;Docker;SQL,Master's degree,2026-05-18,Synthetic demo data
+JOB-0244,Backend Developer,CloudNine Tech,Delhi,3-5 years,Internship,3.6,Git;Java;Pandas;AWS;Docker;Node.js;HTML;Excel;Python;SQL,Any degree,2026-07-30,Synthetic demo data
+JOB-0245,Frontend Developer,FutureWorks,Remote,Fresher,Contract,16.9,HTML;React;Git;NumPy;Docker;CSS;Pandas;JavaScript,Bachelor's degree,2026-01-31,Synthetic demo data
+JOB-0246,Machine Learning Engineer,BluePeak Systems,Kochi,3-5 years,Full-time,9.9,NumPy;React;Git;Pandas;AWS;Machine Learning;Docker;SQL;Python,Master's degree,2026-09-09,Synthetic demo data
+JOB-0247,Full Stack Developer,BluePeak Systems,Kochi,5+ years,Contract,5.5,Node.js;CSS;SQL;Python;JavaScript;HTML;React;Git,Master's degree,2025-11-04,Synthetic demo data
+JOB-0248,Data Analyst,DataBridge,Kochi,3-5 years,Contract,20.3,Python;Excel;Statistics;Tableau;SQL;Pandas;Power BI,Bachelor's degree,2026-02-14,Synthetic demo data
+JOB-0249,Machine Learning Engineer,Evergreen Digital,Remote,3-5 years,Internship,5.2,Pandas;NumPy;AWS;Tableau;JavaScript;Docker;Python;Machine Learning;Statistics,Bachelor's degree,2026-01-25,Synthetic demo data
+JOB-0250,Python Developer,BluePeak Systems,Delhi,Fresher,Internship,20.6,SQL;AWS;Excel;NumPy;Git;JavaScript;Python;React;Docker,Any degree,2026-08-02,Synthetic demo data
+JOB-0251,Frontend Developer,Orbit Analytics,Remote,1-3 years,Internship,15.1,Python;HTML;Power BI;SQL;Git;JavaScript;React;CSS,Any degree,2026-07-31,Synthetic demo data
+JOB-0252,Data Scientist,Evergreen Digital,Kochi,1-3 years,Full-time,11.7,Python;Power BI;Tableau;Statistics;Machine Learning;NumPy;Pandas;React;SQL,Any degree,2026-01-15,Synthetic demo data
+JOB-0253,Software Developer,CloudNine Tech,Bengaluru,3-5 years,Internship,5.4,Java;JavaScript;Power BI;SQL;Docker;Tableau;Python;Git,Master's degree,2025-12-21,Synthetic demo data
+JOB-0254,Frontend Developer,CloudNine Tech,Coimbatore,Fresher,Full-time,8.6,CSS;HTML;SQL;Power BI;JavaScript;React;Statistics;Git,Bachelor's degree,2026-05-11,Synthetic demo data
+JOB-0255,Software Developer,BluePeak Systems,Remote,1-3 years,Internship,16.6,Git;AWS;Docker;Java;Python;SQL;JavaScript,Master's degree,2026-06-05,Synthetic demo data
+JOB-0256,Full Stack Developer,DataBridge,Kochi,1-3 years,Internship,17.8,Node.js;HTML;Tableau;JavaScript;CSS;SQL;React;AWS;Git,Any degree,2026-03-30,Synthetic demo data
+JOB-0257,Business Analyst,BluePeak Systems,Bengaluru,1-3 years,Internship,13.8,Tableau;Excel;Statistics;Power BI;SQL;React,Master's degree,2026-09-14,Synthetic demo data
+JOB-0258,Backend Developer,Aster Labs,Bengaluru,3-5 years,Internship,4.1,Node.js;Git;Java;AWS;Python;React;Docker;Machine Learning;SQL,Any degree,2025-11-23,Synthetic demo data
+JOB-0259,Software Developer,Nova Solutions,Remote,5+ years,Full-time,10.3,React;Git;SQL;Java;Power BI;Node.js;Docker;JavaScript;Python,Bachelor's degree,2025-10-30,Synthetic demo data
+JOB-0260,Machine Learning Engineer,BluePeak Systems,Pune,5+ years,Full-time,22.0,Machine Learning;Python;NumPy;Java;Docker;AWS;JavaScript;Pandas,Any degree,2025-11-20,Synthetic demo data
+JOB-0261,Web Developer,Evergreen Digital,Remote,3-5 years,Full-time,22.1,Node.js;CSS;HTML;React;JavaScript;Git,Master's degree,2026-01-14,Synthetic demo data
+JOB-0262,Full Stack Developer,DataBridge,Hyderabad,5+ years,Full-time,7.3,AWS;Machine Learning;CSS;Git;Node.js;Power BI;JavaScript;HTML;SQL;React,Any degree,2026-02-24,Synthetic demo data
+JOB-0263,Data Scientist,Aster Labs,Bengaluru,3-5 years,Internship,4.5,Machine Learning;NumPy;AWS;Python;Statistics;SQL;Pandas,Bachelor's degree,2026-05-25,Synthetic demo data
+JOB-0264,Backend Developer,Aster Labs,Chennai,3-5 years,Internship,5.2,Java;Node.js;SQL;Power BI;Docker;Pandas;Statistics;Git;Python;AWS,Any degree,2026-05-03,Synthetic demo data
+JOB-0265,Business Analyst,Aster Labs,Kochi,1-3 years,Internship,7.6,Excel;Statistics;SQL;Tableau;Power BI,Any degree,2026-03-18,Synthetic demo data
+JOB-0266,Full Stack Developer,Aster Labs,Delhi,Fresher,Contract,7.4,React;CSS;Git;HTML;Tableau;Excel;JavaScript;SQL;Node.js,Any degree,2026-04-11,Synthetic demo data
+JOB-0267,Web Developer,Aster Labs,Remote,5+ years,Internship,14.5,React;Git;HTML;Statistics;Python;Node.js;CSS;Excel;JavaScript,Master's degree,2025-10-26,Synthetic demo data
+JOB-0268,Data Scientist,BluePeak Systems,Hyderabad,3-5 years,Contract,12.5,SQL;Pandas;Python;NumPy;Machine Learning;CSS;Statistics;Excel,Any degree,2025-11-01,Synthetic demo data
+JOB-0269,Software Developer,FutureWorks,Hyderabad,1-3 years,Internship,18.5,Python;React;Java;Git;JavaScript;SQL;Docker,Master's degree,2026-05-16,Synthetic demo data
+JOB-0270,Machine Learning Engineer,Evergreen Digital,Kochi,Fresher,Full-time,16.6,Python;Statistics;Machine Learning;AWS;Pandas;NumPy;Docker,Bachelor's degree,2026-05-14,Synthetic demo data
+JOB-0271,Python Developer,Nova Solutions,Hyderabad,Fresher,Internship,8.5,Git;SQL;Docker;AWS;Python;JavaScript;NumPy,Any degree,2026-02-05,Synthetic demo data
+JOB-0272,Python Developer,Aster Labs,Hyderabad,1-3 years,Internship,5.9,NumPy;SQL;Node.js;Python;Java;Docker;Git;AWS,Bachelor's degree,2026-07-05,Synthetic demo data
+JOB-0273,Business Analyst,Orbit Analytics,Hyderabad,Fresher,Contract,10.8,SQL;Statistics;Excel;Power BI;Tableau;Python,Bachelor's degree,2025-10-27,Synthetic demo data
+JOB-0274,Web Developer,Evergreen Digital,Remote,1-3 years,Contract,16.7,React;CSS;Node.js;Git;JavaScript;Pandas;HTML;Power BI,Master's degree,2025-12-08,Synthetic demo data
+JOB-0275,Data Scientist,CloudNine Tech,Kochi,1-3 years,Full-time,4.6,Machine Learning;Python;SQL;NumPy;Pandas;Excel;Statistics;Java,Any degree,2026-05-14,Synthetic demo data
+JOB-0276,Web Developer,Nova Solutions,Pune,Fresher,Contract,17.2,Excel;React;Git;HTML;Node.js;JavaScript;CSS,Master's degree,2026-06-19,Synthetic demo data
+JOB-0277,Business Analyst,CloudNine Tech,Bengaluru,Fresher,Internship,6.1,Pandas;Power BI;Statistics;SQL;Excel;Tableau,Bachelor's degree,2026-05-25,Synthetic demo data
+JOB-0278,Python Developer,DataBridge,Delhi,1-3 years,Internship,20.2,SQL;Python;React;NumPy;CSS;Docker;Tableau;Git;AWS,Bachelor's degree,2025-11-19,Synthetic demo data
+JOB-0279,Full Stack Developer,DataBridge,Remote,5+ years,Full-time,15.7,Node.js;CSS;JavaScript;Git;SQL;React;NumPy;HTML;Excel,Bachelor's degree,2026-02-03,Synthetic demo data
+JOB-0280,Business Analyst,CloudNine Tech,Remote,Fresher,Internship,16.6,Power BI;SQL;Tableau;Excel;Statistics,Any degree,2026-03-03,Synthetic demo data
+JOB-0281,Machine Learning Engineer,Nova Solutions,Pune,Fresher,Contract,5.8,NumPy;Machine Learning;Python;Pandas;AWS;Docker,Master's degree,2026-06-07,Synthetic demo data
+JOB-0282,Data Scientist,Aster Labs,Delhi,1-3 years,Internship,19.9,SQL;Pandas;Node.js;NumPy;Python;Machine Learning;Statistics;Power BI,Master's degree,2026-04-02,Synthetic demo data
+JOB-0283,Data Scientist,FutureWorks,Mumbai,5+ years,Full-time,11.7,Python;Machine Learning;Pandas;Java;Statistics;NumPy;SQL,Any degree,2026-01-30,Synthetic demo data
+JOB-0284,Python Developer,CloudNine Tech,Chennai,1-3 years,Contract,19.4,Python;Git;Docker;NumPy;AWS;Power BI;SQL;Tableau,Bachelor's degree,2026-08-14,Synthetic demo data
+JOB-0285,Web Developer,Nova Solutions,Chennai,Fresher,Contract,7.7,Python;CSS;NumPy;Node.js;SQL;Git;React;JavaScript;HTML,Bachelor's degree,2025-11-27,Synthetic demo data
+JOB-0286,Data Analyst,DataBridge,Coimbatore,1-3 years,Internship,6.6,JavaScript;Excel;Node.js;NumPy;Pandas;Power BI;Statistics;Python;SQL;Tableau,Bachelor's degree,2026-04-03,Synthetic demo data
+JOB-0287,Web Developer,Nova Solutions,Delhi,1-3 years,Internship,3.3,Node.js;React;Git;JavaScript;HTML;CSS,Any degree,2026-08-30,Synthetic demo data
+JOB-0288,Data Scientist,Aster Labs,Mumbai,1-3 years,Contract,13.6,Python;Node.js;Pandas;NumPy;Machine Learning;Tableau;Statistics;SQL,Any degree,2026-08-28,Synthetic demo data
+JOB-0289,Full Stack Developer,DataBridge,Pune,5+ years,Internship,12.7,JavaScript;SQL;HTML;React;CSS;Git;NumPy;Node.js;Docker,Any degree,2026-09-20,Synthetic demo data
+JOB-0290,Frontend Developer,DataBridge,Pune,5+ years,Contract,13.8,Git;React;HTML;JavaScript;CSS,Bachelor's degree,2025-10-11,Synthetic demo data
+JOB-0291,Software Developer,Orbit Analytics,Pune,3-5 years,Full-time,21.8,Python;JavaScript;Docker;Machine Learning;SQL;Git;Java,Master's degree,2026-07-03,Synthetic demo data
+JOB-0292,Web Developer,CloudNine Tech,Chennai,Fresher,Full-time,17.2,HTML;Statistics;JavaScript;Java;Git;Tableau;CSS;Node.js;React,Any degree,2026-01-25,Synthetic demo data
+JOB-0293,Business Analyst,FutureWorks,Kochi,3-5 years,Contract,6.8,Tableau;Power BI;SQL;Excel;Statistics,Any degree,2026-05-14,Synthetic demo data
+JOB-0294,Backend Developer,FutureWorks,Delhi,1-3 years,Contract,23.5,Java;Git;Statistics;AWS;Node.js;Docker;Python;SQL,Any degree,2026-01-12,Synthetic demo data
+JOB-0295,Frontend Developer,FutureWorks,Pune,3-5 years,Full-time,14.5,Git;AWS;CSS;React;HTML;Statistics;JavaScript,Bachelor's degree,2026-05-20,Synthetic demo data
+JOB-0296,Frontend Developer,FutureWorks,Delhi,3-5 years,Contract,6.8,JavaScript;Git;CSS;Node.js;HTML;Excel;React,Bachelor's degree,2025-12-14,Synthetic demo data
+JOB-0297,Web Developer,Nova Solutions,Hyderabad,1-3 years,Internship,6.1,HTML;React;Node.js;CSS;JavaScript;Git,Bachelor's degree,2026-07-06,Synthetic demo data
+JOB-0298,Backend Developer,CloudNine Tech,Coimbatore,1-3 years,Contract,13.0,Git;Node.js;Java;Python;Statistics;React;SQL;Docker;HTML;AWS,Any degree,2026-08-16,Synthetic demo data
+JOB-0299,Frontend Developer,Nova Solutions,Chennai,3-5 years,Internship,23.2,React;JavaScript;HTML;Node.js;Machine Learning;Git;CSS,Bachelor's degree,2025-12-13,Synthetic demo data
+JOB-0300,Business Analyst,Orbit Analytics,Chennai,5+ years,Internship,9.0,Excel;SQL;Tableau;Statistics;React;Power BI,Any degree,2026-07-22,Synthetic demo data
+JOB-0301,Python Developer,FutureWorks,Pune,3-5 years,Internship,8.6,SQL;AWS;Docker;Git;NumPy;Python;Statistics;Node.js,Any degree,2026-03-16,Synthetic demo data
+JOB-0302,Software Developer,Evergreen Digital,Chennai,1-3 years,Full-time,11.3,Git;Docker;SQL;JavaScript;Java;Power BI;Python;Node.js;React,Bachelor's degree,2026-09-02,Synthetic demo data
+JOB-0303,Frontend Developer,BluePeak Systems,Mumbai,1-3 years,Full-time,16.8,HTML;Git;CSS;React;JavaScript,Master's degree,2026-04-29,Synthetic demo data
+JOB-0304,Web Developer,Aster Labs,Coimbatore,3-5 years,Contract,21.1,Git;HTML;Tableau;Node.js;CSS;React;JavaScript,Master's degree,2026-01-01,Synthetic demo data
+JOB-0305,Software Developer,DataBridge,Chennai,5+ years,Contract,10.7,Java;Git;Python;SQL;Tableau;JavaScript;Docker;Excel;Power BI,Master's degree,2026-07-17,Synthetic demo data
+JOB-0306,Software Developer,Orbit Analytics,Remote,Fresher,Internship,22.4,JavaScript;SQL;Git;Python;Docker;Java,Master's degree,2026-05-04,Synthetic demo data
+JOB-0307,Data Analyst,CloudNine Tech,Delhi,5+ years,Full-time,8.5,Python;Git;Pandas;HTML;Tableau;Power BI;Excel;Statistics;NumPy;SQL,Master's degree,2025-11-18,Synthetic demo data
+JOB-0308,Web Developer,BluePeak Systems,Kochi,5+ years,Contract,17.7,JavaScript;Machine Learning;Statistics;Git;HTML;CSS;React;Node.js,Master's degree,2026-06-30,Synthetic demo data
+JOB-0309,Machine Learning Engineer,Evergreen Digital,Mumbai,1-3 years,Internship,12.2,Docker;NumPy;Pandas;AWS;Python;Machine Learning,Bachelor's degree,2026-06-07,Synthetic demo data
+JOB-0310,Data Scientist,FutureWorks,Kochi,Fresher,Contract,4.7,Python;NumPy;SQL;AWS;Statistics;Machine Learning;Pandas,Bachelor's degree,2026-09-06,Synthetic demo data
+JOB-0311,Software Developer,Nova Solutions,Kochi,1-3 years,Internship,23.9,Python;JavaScript;Docker;Java;Power BI;Pandas;CSS;Git;SQL,Bachelor's degree,2026-02-11,Synthetic demo data
+JOB-0312,Data Scientist,BluePeak Systems,Mumbai,5+ years,Internship,9.3,Machine Learning;JavaScript;Python;NumPy;Statistics;SQL;Pandas,Master's degree,2026-09-08,Synthetic demo data
+JOB-0313,Web Developer,Evergreen Digital,Chennai,5+ years,Full-time,3.2,Git;Node.js;HTML;JavaScript;React;CSS,Bachelor's degree,2025-12-11,Synthetic demo data
+JOB-0314,Frontend Developer,FutureWorks,Coimbatore,Fresher,Contract,16.5,CSS;Node.js;React;Git;HTML;JavaScript,Any degree,2026-01-03,Synthetic demo data
+JOB-0315,Data Scientist,Aster Labs,Delhi,3-5 years,Internship,5.8,Pandas;Python;JavaScript;SQL;NumPy;Statistics;Machine Learning,Bachelor's degree,2026-01-29,Synthetic demo data
+JOB-0316,Frontend Developer,FutureWorks,Kochi,3-5 years,Internship,22.2,JavaScript;Statistics;CSS;Power BI;Git;HTML;React,Any degree,2026-07-14,Synthetic demo data
+JOB-0317,Data Scientist,Nova Solutions,Bengaluru,Fresher,Internship,21.0,Pandas;Python;Machine Learning;SQL;NumPy;JavaScript;Statistics,Any degree,2026-06-04,Synthetic demo data
+JOB-0318,Machine Learning Engineer,CloudNine Tech,Mumbai,3-5 years,Contract,16.5,NumPy;Machine Learning;Python;Pandas;AWS;Docker,Bachelor's degree,2026-08-16,Synthetic demo data
+JOB-0319,Full Stack Developer,Orbit Analytics,Hyderabad,Fresher,Full-time,15.0,Node.js;CSS;React;Git;SQL;HTML;JavaScript,Master's degree,2025-11-02,Synthetic demo data
+JOB-0320,Frontend Developer,BluePeak Systems,Kochi,Fresher,Contract,14.7,CSS;Node.js;React;AWS;JavaScript;Git;HTML,Master's degree,2026-03-30,Synthetic demo data
+JOB-0321,Data Analyst,Nova Solutions,Hyderabad,1-3 years,Internship,16.8,Statistics;Python;Power BI;Pandas;Node.js;AWS;SQL;Tableau;Excel,Any degree,2025-11-18,Synthetic demo data
+JOB-0322,Python Developer,Nova Solutions,Remote,3-5 years,Internship,6.3,Git;SQL;AWS;Python;Docker;Tableau;React;Excel;NumPy,Any degree,2026-02-20,Synthetic demo data
+JOB-0323,Machine Learning Engineer,DataBridge,Delhi,3-5 years,Contract,23.2,Machine Learning;Python;AWS;NumPy;React;JavaScript;Pandas;Docker,Master's degree,2026-03-15,Synthetic demo data
+JOB-0324,Data Analyst,Evergreen Digital,Hyderabad,1-3 years,Contract,3.5,Pandas;Statistics;Power BI;Excel;SQL;Tableau;Python,Any degree,2026-05-16,Synthetic demo data
+JOB-0325,Full Stack Developer,DataBridge,Hyderabad,3-5 years,Contract,4.9,Docker;SQL;Git;Node.js;HTML;CSS;React;JavaScript,Master's degree,2025-12-17,Synthetic demo data
+JOB-0326,Web Developer,BluePeak Systems,Mumbai,Fresher,Internship,20.0,Node.js;CSS;HTML;React;JavaScript;Git,Master's degree,2026-08-25,Synthetic demo data
+JOB-0327,Data Analyst,Aster Labs,Mumbai,Fresher,Contract,14.3,Power BI;Statistics;Python;SQL;Tableau;Java;JavaScript;Excel;Pandas,Bachelor's degree,2026-04-20,Synthetic demo data
+JOB-0328,Full Stack Developer,DataBridge,Delhi,3-5 years,Contract,6.1,HTML;Excel;CSS;Node.js;React;Git;SQL;JavaScript,Master's degree,2026-08-23,Synthetic demo data
+JOB-0329,Frontend Developer,Nova Solutions,Remote,5+ years,Internship,5.7,CSS;JavaScript;HTML;React;Git,Bachelor's degree,2026-01-31,Synthetic demo data
+JOB-0330,Full Stack Developer,Evergreen Digital,Delhi,3-5 years,Internship,22.4,React;CSS;JavaScript;Power BI;HTML;Node.js;SQL;Git,Bachelor's degree,2026-08-08,Synthetic demo data
+JOB-0331,Backend Developer,CloudNine Tech,Kochi,Fresher,Full-time,7.2,NumPy;Docker;Node.js;Tableau;Java;SQL;Git;Python;JavaScript;AWS,Master's degree,2026-07-17,Synthetic demo data
+JOB-0332,Data Scientist,Evergreen Digital,Coimbatore,3-5 years,Internship,19.9,Pandas;NumPy;Statistics;Machine Learning;Python;SQL,Master's degree,2026-02-16,Synthetic demo data
+JOB-0333,Frontend Developer,DataBridge,Remote,3-5 years,Internship,13.1,React;JavaScript;Git;HTML;CSS,Any degree,2026-07-24,Synthetic demo data
+JOB-0334,Data Analyst,Aster Labs,Chennai,5+ years,Internship,8.7,Power BI;Statistics;NumPy;Pandas;AWS;Excel;Node.js;SQL;Python;Tableau,Any degree,2026-04-03,Synthetic demo data
+JOB-0335,Data Scientist,FutureWorks,Kochi,Fresher,Full-time,7.2,SQL;Python;NumPy;Machine Learning;Pandas;Statistics,Master's degree,2025-12-21,Synthetic demo data
+JOB-0336,Data Analyst,CloudNine Tech,Coimbatore,3-5 years,Internship,10.4,SQL;Power BI;Pandas;Statistics;Python;Tableau;Excel,Any degree,2026-05-03,Synthetic demo data
+JOB-0337,Web Developer,FutureWorks,Delhi,1-3 years,Full-time,18.3,CSS;AWS;Git;JavaScript;Statistics;HTML;React;Node.js,Any degree,2025-10-22,Synthetic demo data
+JOB-0338,Business Analyst,FutureWorks,Kochi,1-3 years,Full-time,16.7,Excel;Power BI;Tableau;JavaScript;Statistics;SQL,Any degree,2025-12-31,Synthetic demo data
+JOB-0339,Web Developer,CloudNine Tech,Pune,Fresher,Internship,14.2,JavaScript;HTML;React;CSS;Node.js;Machine Learning;Git,Any degree,2026-08-05,Synthetic demo data
+JOB-0340,Python Developer,CloudNine Tech,Hyderabad,Fresher,Full-time,6.9,Python;Git;AWS;CSS;SQL;HTML;Docker;NumPy,Any degree,2025-11-23,Synthetic demo data
+JOB-0341,Software Developer,CloudNine Tech,Remote,5+ years,Internship,16.6,Git;JavaScript;Docker;SQL;Java;React;Python,Bachelor's degree,2026-03-20,Synthetic demo data
+JOB-0342,Frontend Developer,DataBridge,Hyderabad,Fresher,Full-time,22.5,Excel;Git;HTML;CSS;Tableau;Java;JavaScript;React,Master's degree,2025-11-23,Synthetic demo data
+JOB-0343,Frontend Developer,Nova Solutions,Remote,Fresher,Internship,5.3,Git;HTML;CSS;Pandas;JavaScript;Java;React,Master's degree,2026-09-13,Synthetic demo data
+JOB-0344,Web Developer,Orbit Analytics,Bengaluru,5+ years,Contract,15.9,AWS;Git;Python;Node.js;React;JavaScript;CSS;HTML;Tableau,Bachelor's degree,2025-10-16,Synthetic demo data
+JOB-0345,Full Stack Developer,Nova Solutions,Delhi,3-5 years,Contract,3.5,HTML;CSS;React;Git;Node.js;SQL;JavaScript;Power BI,Master's degree,2025-12-06,Synthetic demo data
+JOB-0346,Web Developer,CloudNine Tech,Delhi,5+ years,Full-time,19.1,Node.js;Machine Learning;Git;NumPy;React;Docker;HTML;CSS;JavaScript,Master's degree,2025-12-19,Synthetic demo data
+JOB-0347,Python Developer,Orbit Analytics,Mumbai,1-3 years,Full-time,21.9,AWS;SQL;HTML;Docker;Python;NumPy;Git,Bachelor's degree,2026-10-03,Synthetic demo data
+JOB-0348,Business Analyst,DataBridge,Hyderabad,5+ years,Contract,11.6,AWS;SQL;Power BI;Excel;Statistics;Machine Learning;Tableau,Bachelor's degree,2025-12-01,Synthetic demo data
+JOB-0349,Business Analyst,Aster Labs,Bengaluru,1-3 years,Full-time,16.7,Statistics;Excel;Tableau;Power BI;SQL,Bachelor's degree,2026-07-22,Synthetic demo data
+JOB-0350,Data Analyst,Orbit Analytics,Pune,Fresher,Full-time,19.1,Tableau;CSS;Pandas;Python;Statistics;Java;Power BI;Excel;SQL,Master's degree,2026-03-30,Synthetic demo data
+JOB-0351,Backend Developer,CloudNine Tech,Chennai,3-5 years,Contract,14.1,AWS;SQL;Java;Python;Docker;Node.js;Git,Any degree,2026-06-19,Synthetic demo data
+JOB-0352,Web Developer,Nova Solutions,Pune,3-5 years,Internship,15.1,React;JavaScript;CSS;Git;Node.js;HTML,Any degree,2026-04-06,Synthetic demo data
+JOB-0353,Python Developer,Aster Labs,Kochi,Fresher,Internship,20.8,Docker;Power BI;Python;NumPy;Pandas;Git;AWS;SQL;Statistics,Any degree,2026-03-06,Synthetic demo data
+JOB-0354,Backend Developer,Evergreen Digital,Mumbai,Fresher,Contract,9.3,Node.js;AWS;Python;Java;Docker;Git;SQL,Any degree,2026-04-22,Synthetic demo data
+JOB-0355,Data Analyst,CloudNine Tech,Hyderabad,3-5 years,Contract,22.4,Excel;SQL;Tableau;Power BI;Pandas;Python;Statistics,Master's degree,2026-02-04,Synthetic demo data
+JOB-0356,Data Analyst,Aster Labs,Remote,3-5 years,Internship,18.2,SQL;Pandas;Excel;Machine Learning;Tableau;Power BI;Statistics;Python,Master's degree,2025-12-24,Synthetic demo data
+JOB-0357,Full Stack Developer,Evergreen Digital,Coimbatore,3-5 years,Contract,16.2,Git;React;JavaScript;SQL;CSS;Node.js;HTML,Bachelor's degree,2025-12-16,Synthetic demo data
+JOB-0358,Business Analyst,Orbit Analytics,Hyderabad,3-5 years,Contract,20.4,Tableau;CSS;SQL;NumPy;Excel;Power BI;Docker;Statistics,Master's degree,2026-06-16,Synthetic demo data
+JOB-0359,Full Stack Developer,Orbit Analytics,Remote,1-3 years,Full-time,10.1,Docker;Node.js;CSS;React;Excel;HTML;Git;JavaScript;SQL,Master's degree,2026-01-09,Synthetic demo data
+JOB-0360,Software Developer,Aster Labs,Mumbai,Fresher,Internship,20.8,CSS;Docker;Excel;Git;Java;JavaScript;Python;SQL,Bachelor's degree,2026-04-17,Synthetic demo data
+JOB-0361,Frontend Developer,DataBridge,Pune,1-3 years,Full-time,9.0,React;HTML;Git;CSS;JavaScript,Any degree,2026-04-24,Synthetic demo data
+JOB-0362,Frontend Developer,BluePeak Systems,Coimbatore,Fresher,Full-time,14.4,Git;React;JavaScript;HTML;CSS,Any degree,2026-04-24,Synthetic demo data
+JOB-0363,Software Developer,Evergreen Digital,Pune,5+ years,Full-time,5.7,Git;JavaScript;Java;Python;Docker;SQL;Tableau,Master's degree,2025-10-24,Synthetic demo data
+JOB-0364,Data Analyst,Orbit Analytics,Pune,3-5 years,Contract,20.2,Python;Tableau;Excel;Pandas;Statistics;SQL;Power BI,Any degree,2025-10-26,Synthetic demo data
+JOB-0365,Full Stack Developer,BluePeak Systems,Kochi,3-5 years,Internship,16.5,CSS;SQL;JavaScript;HTML;Node.js;React;Git,Master's degree,2026-02-06,Synthetic demo data
+JOB-0366,Web Developer,FutureWorks,Pune,5+ years,Contract,3.6,React;HTML;CSS;Git;JavaScript;Node.js;Excel,Master's degree,2026-08-08,Synthetic demo data
+JOB-0367,Machine Learning Engineer,Evergreen Digital,Remote,5+ years,Contract,15.4,Git;Power BI;Machine Learning;Java;Pandas;Python;AWS;NumPy;Docker,Bachelor's degree,2025-11-21,Synthetic demo data
+JOB-0368,Web Developer,Nova Solutions,Pune,1-3 years,Full-time,16.9,Git;Power BI;Node.js;CSS;JavaScript;HTML;React,Bachelor's degree,2025-10-05,Synthetic demo data
+JOB-0369,Business Analyst,Nova Solutions,Chennai,Fresher,Internship,20.1,NumPy;SQL;CSS;Tableau;Excel;Statistics;Power BI;Python,Master's degree,2026-04-20,Synthetic demo data
+JOB-0370,Frontend Developer,CloudNine Tech,Bengaluru,5+ years,Internship,9.1,React;CSS;Git;HTML;JavaScript,Any degree,2025-12-13,Synthetic demo data
+JOB-0371,Frontend Developer,Nova Solutions,Pune,Fresher,Internship,3.2,JavaScript;HTML;React;Git;CSS;Java,Any degree,2026-03-12,Synthetic demo data
+JOB-0372,Python Developer,Aster Labs,Hyderabad,5+ years,Internship,15.4,Docker;Git;CSS;SQL;AWS;NumPy;Machine Learning;Python,Any degree,2026-04-25,Synthetic demo data
+JOB-0373,Backend Developer,CloudNine Tech,Mumbai,1-3 years,Full-time,3.2,Python;Tableau;AWS;React;Docker;Git;Java;Pandas;SQL;Node.js,Any degree,2026-09-26,Synthetic demo data
+JOB-0374,Python Developer,Orbit Analytics,Remote,5+ years,Internship,20.2,HTML;Python;Node.js;AWS;Statistics;Docker;NumPy;SQL;Git,Master's degree,2026-04-06,Synthetic demo data
+JOB-0375,Web Developer,Evergreen Digital,Delhi,3-5 years,Full-time,23.5,CSS;Git;JavaScript;React;Pandas;HTML;Node.js,Any degree,2026-01-30,Synthetic demo data
+JOB-0376,Machine Learning Engineer,Orbit Analytics,Remote,Fresher,Internship,21.7,NumPy;Machine Learning;Docker;Python;Pandas;AWS,Bachelor's degree,2026-06-01,Synthetic demo data
+JOB-0377,Frontend Developer,FutureWorks,Remote,Fresher,Contract,12.5,HTML;JavaScript;React;CSS;Git,Master's degree,2025-12-15,Synthetic demo data
+JOB-0378,Machine Learning Engineer,CloudNine Tech,Coimbatore,3-5 years,Internship,16.1,Pandas;Machine Learning;Java;JavaScript;Statistics;AWS;Docker;Python;NumPy,Master's degree,2026-01-29,Synthetic demo data
+JOB-0379,Data Scientist,Evergreen Digital,Mumbai,Fresher,Internship,5.3,Node.js;Pandas;NumPy;Machine Learning;SQL;Statistics;Python,Bachelor's degree,2025-12-06,Synthetic demo data
+JOB-0380,Python Developer,CloudNine Tech,Kochi,5+ years,Contract,8.0,Machine Learning;JavaScript;NumPy;SQL;Python;AWS;Git;HTML;Docker,Master's degree,2025-11-12,Synthetic demo data
+JOB-0381,Python Developer,CloudNine Tech,Kochi,5+ years,Contract,9.3,Git;Docker;AWS;React;Python;SQL;NumPy,Any degree,2026-01-05,Synthetic demo data
+JOB-0382,Web Developer,FutureWorks,Remote,Fresher,Full-time,22.3,Statistics;Git;CSS;Pandas;HTML;React;Power BI;JavaScript;Node.js,Any degree,2026-04-06,Synthetic demo data
+JOB-0383,Backend Developer,DataBridge,Remote,3-5 years,Internship,17.5,Git;Python;NumPy;Node.js;Machine Learning;AWS;SQL;Java;Docker,Bachelor's degree,2026-04-27,Synthetic demo data
+JOB-0384,Full Stack Developer,BluePeak Systems,Kochi,3-5 years,Full-time,18.2,CSS;React;HTML;Node.js;Git;JavaScript;SQL,Master's degree,2026-06-28,Synthetic demo data
+JOB-0385,Data Analyst,BluePeak Systems,Chennai,1-3 years,Contract,16.8,Power BI;Pandas;Python;Excel;Statistics;SQL;Tableau,Any degree,2025-12-19,Synthetic demo data
+JOB-0386,Python Developer,BluePeak Systems,Kochi,3-5 years,Contract,17.5,Python;Docker;AWS;SQL;Git;NumPy,Any degree,2026-04-22,Synthetic demo data
+JOB-0387,Software Developer,Evergreen Digital,Mumbai,1-3 years,Contract,4.5,CSS;JavaScript;Python;Docker;Git;Java;SQL,Bachelor's degree,2025-11-26,Synthetic demo data
+JOB-0388,Backend Developer,Orbit Analytics,Mumbai,Fresher,Full-time,4.5,AWS;SQL;Git;Node.js;Docker;Java;Python;Tableau,Any degree,2026-05-29,Synthetic demo data
+JOB-0389,Frontend Developer,Aster Labs,Delhi,3-5 years,Full-time,17.7,Git;JavaScript;CSS;HTML;React,Master's degree,2025-12-14,Synthetic demo data
+JOB-0390,Data Analyst,FutureWorks,Mumbai,5+ years,Full-time,16.3,Tableau;NumPy;Python;Pandas;Statistics;Machine Learning;SQL;Power BI;JavaScript;Excel,Any degree,2026-08-19,Synthetic demo data
+JOB-0391,Machine Learning Engineer,Evergreen Digital,Delhi,Fresher,Internship,17.5,NumPy;Pandas;Power BI;Python;Excel;Machine Learning;Docker;AWS,Master's degree,2026-08-22,Synthetic demo data
+JOB-0392,Frontend Developer,Orbit Analytics,Delhi,Fresher,Internship,16.5,Git;React;CSS;Excel;HTML;JavaScript,Master's degree,2026-01-04,Synthetic demo data
+JOB-0393,Frontend Developer,Aster Labs,Delhi,Fresher,Full-time,19.9,React;HTML;Git;CSS;JavaScript,Any degree,2026-01-10,Synthetic demo data
+JOB-0394,Frontend Developer,Orbit Analytics,Coimbatore,5+ years,Internship,4.0,Statistics;CSS;React;JavaScript;HTML;Git,Any degree,2025-11-06,Synthetic demo data
+JOB-0395,Python Developer,CloudNine Tech,Chennai,Fresher,Full-time,13.4,Docker;NumPy;AWS;SQL;Python;Git,Any degree,2026-06-14,Synthetic demo data
+JOB-0396,Data Scientist,FutureWorks,Hyderabad,Fresher,Internship,6.6,Machine Learning;NumPy;Python;Java;Pandas;SQL;Statistics,Bachelor's degree,2026-08-04,Synthetic demo data
+JOB-0397,Software Developer,Aster Labs,Bengaluru,Fresher,Internship,15.9,Docker;Java;Git;NumPy;SQL;JavaScript;Python,Bachelor's degree,2026-09-26,Synthetic demo data
+JOB-0398,Frontend Developer,Evergreen Digital,Delhi,5+ years,Internship,5.7,HTML;CSS;React;Git;JavaScript,Bachelor's degree,2025-11-11,Synthetic demo data
+JOB-0399,Software Developer,FutureWorks,Delhi,Fresher,Internship,7.9,NumPy;Python;HTML;Excel;Docker;Git;JavaScript;SQL;Java,Bachelor's degree,2026-01-06,Synthetic demo data
+JOB-0400,Data Scientist,BluePeak Systems,Bengaluru,5+ years,Contract,6.7,NumPy;Node.js;Python;Statistics;Machine Learning;SQL;Tableau;Pandas,Any degree,2026-09-12,Synthetic demo data
+JOB-0401,Data Analyst,CloudNine Tech,Bengaluru,Fresher,Contract,13.8,Excel;Git;Statistics;SQL;Power BI;HTML;Python;Tableau;Pandas,Bachelor's degree,2026-06-06,Synthetic demo data
+JOB-0402,Frontend Developer,DataBridge,Chennai,1-3 years,Internship,11.7,Git;React;JavaScript;HTML;CSS;Java;NumPy,Bachelor's degree,2026-03-26,Synthetic demo data
+JOB-0403,Web Developer,CloudNine Tech,Hyderabad,5+ years,Full-time,11.1,JavaScript;CSS;HTML;Git;Node.js;React,Bachelor's degree,2026-02-12,Synthetic demo data
+JOB-0404,Web Developer,BluePeak Systems,Kochi,5+ years,Contract,6.6,JavaScript;React;Machine Learning;Java;Node.js;HTML;CSS;Git,Master's degree,2026-06-14,Synthetic demo data
+JOB-0405,Software Developer,Orbit Analytics,Hyderabad,5+ years,Contract,8.9,SQL;Git;Java;JavaScript;Statistics;Python;Docker,Any degree,2026-02-27,Synthetic demo data
+JOB-0406,Web Developer,Nova Solutions,Coimbatore,Fresher,Contract,18.4,NumPy;HTML;JavaScript;Git;CSS;Node.js;React,Any degree,2026-09-17,Synthetic demo data
+JOB-0407,Backend Developer,Evergreen Digital,Hyderabad,Fresher,Full-time,13.1,SQL;Git;AWS;Tableau;Excel;Python;Docker;Java;Node.js;Power BI,Master's degree,2026-07-14,Synthetic demo data
+JOB-0408,Frontend Developer,CloudNine Tech,Pune,5+ years,Internship,16.3,CSS;HTML;JavaScript;Git;React,Any degree,2026-08-29,Synthetic demo data
+JOB-0409,Backend Developer,FutureWorks,Coimbatore,3-5 years,Full-time,5.3,Node.js;Python;AWS;Java;CSS;SQL;React;Git;Docker,Master's degree,2026-02-08,Synthetic demo data
+JOB-0410,Business Analyst,DataBridge,Bengaluru,3-5 years,Full-time,14.3,SQL;Tableau;Excel;Statistics;Power BI,Any degree,2026-02-02,Synthetic demo data
+JOB-0411,Business Analyst,Nova Solutions,Mumbai,Fresher,Full-time,10.8,Excel;Tableau;Statistics;Power BI;SQL;React,Master's degree,2026-01-29,Synthetic demo data
+JOB-0412,Full Stack Developer,BluePeak Systems,Hyderabad,5+ years,Full-time,4.7,JavaScript;Git;HTML;CSS;Node.js;SQL;React,Bachelor's degree,2026-05-10,Synthetic demo data
+JOB-0413,Data Scientist,Orbit Analytics,Bengaluru,1-3 years,Internship,23.0,SQL;Pandas;NumPy;Python;Statistics;Machine Learning,Bachelor's degree,2026-05-07,Synthetic demo data
+JOB-0414,Backend Developer,Aster Labs,Hyderabad,3-5 years,Contract,15.2,Java;Power BI;Docker;SQL;Python;Git;Node.js;AWS,Any degree,2025-11-08,Synthetic demo data
+JOB-0415,Machine Learning Engineer,Evergreen Digital,Hyderabad,5+ years,Contract,23.4,Docker;Python;SQL;Machine Learning;AWS;NumPy;Pandas;Statistics;React,Bachelor's degree,2026-07-21,Synthetic demo data
+JOB-0416,Machine Learning Engineer,CloudNine Tech,Hyderabad,Fresher,Full-time,23.9,Pandas;Power BI;Python;Machine Learning;Git;AWS;Docker;NumPy,Any degree,2026-08-01,Synthetic demo data
+JOB-0417,Frontend Developer,FutureWorks,Kochi,1-3 years,Internship,9.3,React;Node.js;Excel;CSS;JavaScript;Git;HTML,Bachelor's degree,2026-03-11,Synthetic demo data
+JOB-0418,Frontend Developer,Evergreen Digital,Kochi,3-5 years,Internship,17.0,React;Git;Pandas;JavaScript;HTML;CSS,Any degree,2026-02-20,Synthetic demo data
+JOB-0419,Machine Learning Engineer,Evergreen Digital,Coimbatore,5+ years,Internship,20.7,Machine Learning;NumPy;AWS;Python;Pandas;Docker,Master's degree,2026-04-05,Synthetic demo data
+JOB-0420,Data Scientist,BluePeak Systems,Remote,5+ years,Internship,17.1,SQL;Power BI;Python;Statistics;Machine Learning;AWS;NumPy;Pandas,Bachelor's degree,2026-01-15,Synthetic demo data
+JOB-0421,Backend Developer,Nova Solutions,Bengaluru,5+ years,Contract,11.1,Node.js;Java;SQL;Python;Power BI;Git;Docker;AWS,Bachelor's degree,2026-05-12,Synthetic demo data
+JOB-0422,Machine Learning Engineer,CloudNine Tech,Delhi,5+ years,Full-time,20.5,Python;NumPy;Java;AWS;Pandas;Docker;Power BI;Machine Learning,Any degree,2026-08-21,Synthetic demo data
+JOB-0423,Python Developer,BluePeak Systems,Coimbatore,5+ years,Internship,22.2,JavaScript;Git;NumPy;Python;SQL;AWS;Docker,Master's degree,2026-07-07,Synthetic demo data
+JOB-0424,Full Stack Developer,Orbit Analytics,Remote,5+ years,Full-time,3.6,Excel;HTML;SQL;Java;JavaScript;React;Statistics;Node.js;Git;CSS,Bachelor's degree,2026-07-18,Synthetic demo data
+JOB-0425,Software Developer,DataBridge,Coimbatore,Fresher,Contract,13.4,Docker;Python;Statistics;Git;SQL;JavaScript;Java;Tableau,Bachelor's degree,2025-12-02,Synthetic demo data
+JOB-0426,Machine Learning Engineer,Aster Labs,Bengaluru,3-5 years,Contract,21.4,SQL;Pandas;Java;Python;Docker;AWS;NumPy;Machine Learning;Node.js,Bachelor's degree,2026-04-05,Synthetic demo data
+JOB-0427,Python Developer,Aster Labs,Mumbai,3-5 years,Internship,16.4,Python;Git;AWS;Docker;NumPy;SQL,Bachelor's degree,2026-01-14,Synthetic demo data
+JOB-0428,Web Developer,Evergreen Digital,Pune,Fresher,Internship,15.2,HTML;React;Git;JavaScript;Docker;CSS;Node.js,Bachelor's degree,2026-09-28,Synthetic demo data
+JOB-0429,Python Developer,DataBridge,Remote,Fresher,Contract,12.7,Docker;Pandas;AWS;NumPy;Python;Git;SQL;Machine Learning,Bachelor's degree,2026-08-06,Synthetic demo data
+JOB-0430,Python Developer,CloudNine Tech,Kochi,3-5 years,Full-time,17.9,Python;Git;NumPy;AWS;SQL;Docker,Bachelor's degree,2026-08-05,Synthetic demo data
+JOB-0431,Web Developer,CloudNine Tech,Chennai,5+ years,Internship,19.0,Node.js;React;HTML;JavaScript;Tableau;Git;CSS,Bachelor's degree,2026-08-26,Synthetic demo data
+JOB-0432,Data Analyst,Aster Labs,Chennai,Fresher,Internship,7.3,Tableau;Git;Pandas;Statistics;Python;JavaScript;Power BI;AWS;SQL;Excel,Bachelor's degree,2026-07-02,Synthetic demo data
+JOB-0433,Machine Learning Engineer,FutureWorks,Bengaluru,1-3 years,Internship,15.0,Docker;AWS;Pandas;NumPy;Machine Learning;Python,Bachelor's degree,2025-12-12,Synthetic demo data
+JOB-0434,Data Analyst,FutureWorks,Bengaluru,5+ years,Internship,23.1,Python;Pandas;Power BI;Statistics;SQL;Git;Excel;Tableau,Bachelor's degree,2026-04-06,Synthetic demo data
+JOB-0435,Backend Developer,Evergreen Digital,Remote,Fresher,Full-time,9.9,Docker;SQL;JavaScript;React;Tableau;Node.js;Python;AWS;Java;Git,Bachelor's degree,2026-03-21,Synthetic demo data
+JOB-0436,Software Developer,CloudNine Tech,Coimbatore,5+ years,Internship,5.2,JavaScript;Machine Learning;Docker;Java;Python;Pandas;SQL;React;Git,Master's degree,2026-01-10,Synthetic demo data
+JOB-0437,Data Scientist,CloudNine Tech,Chennai,3-5 years,Full-time,10.1,SQL;Python;Statistics;NumPy;Pandas;Machine Learning,Any degree,2026-03-12,Synthetic demo data
+JOB-0438,Data Scientist,FutureWorks,Kochi,5+ years,Contract,13.7,Python;Machine Learning;Java;NumPy;Statistics;Pandas;SQL,Bachelor's degree,2026-02-14,Synthetic demo data
+JOB-0439,Data Scientist,Aster Labs,Chennai,Fresher,Full-time,13.5,Machine Learning;SQL;Python;NumPy;Pandas;Statistics,Bachelor's degree,2026-07-05,Synthetic demo data
+JOB-0440,Backend Developer,Orbit Analytics,Kochi,3-5 years,Internship,10.2,SQL;HTML;Python;Git;Node.js;Docker;AWS;Machine Learning;Java,Any degree,2025-12-29,Synthetic demo data
+JOB-0441,Data Analyst,Orbit Analytics,Kochi,Fresher,Full-time,6.7,Statistics;Python;Excel;Tableau;Pandas;SQL;Power BI,Any degree,2026-05-02,Synthetic demo data
+JOB-0442,Python Developer,Orbit Analytics,Remote,1-3 years,Internship,4.2,NumPy;Git;SQL;Docker;AWS;Python;JavaScript;HTML;Node.js,Master's degree,2026-01-24,Synthetic demo data
+JOB-0443,Business Analyst,FutureWorks,Coimbatore,3-5 years,Contract,5.0,Pandas;SQL;Tableau;Java;NumPy;Excel;Power BI;Statistics,Master's degree,2026-04-05,Synthetic demo data
+JOB-0444,Backend Developer,Evergreen Digital,Chennai,3-5 years,Full-time,3.4,Java;CSS;Git;Python;Docker;SQL;AWS;JavaScript;Node.js,Master's degree,2026-09-15,Synthetic demo data
+JOB-0445,Frontend Developer,Nova Solutions,Pune,Fresher,Contract,5.1,NumPy;CSS;HTML;Power BI;React;Python;JavaScript;Git,Any degree,2026-06-21,Synthetic demo data
+JOB-0446,Machine Learning Engineer,DataBridge,Mumbai,3-5 years,Full-time,9.2,Statistics;Python;React;Docker;Machine Learning;Pandas;JavaScript;AWS;NumPy,Any degree,2026-03-13,Synthetic demo data
+JOB-0447,Web Developer,Evergreen Digital,Chennai,5+ years,Contract,7.4,React;CSS;JavaScript;HTML;Node.js;Git,Bachelor's degree,2025-11-05,Synthetic demo data
+JOB-0448,Software Developer,CloudNine Tech,Coimbatore,1-3 years,Internship,13.5,Java;NumPy;Docker;SQL;Statistics;Git;Python;JavaScript,Any degree,2026-02-07,Synthetic demo data
+JOB-0449,Software Developer,Nova Solutions,Delhi,3-5 years,Full-time,16.3,React;JavaScript;Java;Docker;Python;Statistics;SQL;Git;AWS,Master's degree,2026-05-21,Synthetic demo data
+JOB-0450,Software Developer,CloudNine Tech,Hyderabad,Fresher,Full-time,19.7,Machine Learning;SQL;Java;Git;Python;Docker;JavaScript,Master's degree,2026-02-09,Synthetic demo data
+JOB-0451,Frontend Developer,CloudNine Tech,Coimbatore,5+ years,Full-time,4.2,AWS;NumPy;Git;JavaScript;SQL;CSS;HTML;React,Bachelor's degree,2026-04-27,Synthetic demo data
+JOB-0452,Business Analyst,DataBridge,Chennai,Fresher,Internship,16.9,SQL;Statistics;JavaScript;Tableau;Excel;CSS;Power BI,Any degree,2026-01-09,Synthetic demo data
+JOB-0453,Software Developer,CloudNine Tech,Chennai,1-3 years,Full-time,23.4,CSS;Java;HTML;React;Git;Docker;SQL;JavaScript;Python,Master's degree,2026-03-09,Synthetic demo data
+JOB-0454,Software Developer,FutureWorks,Remote,5+ years,Contract,17.3,Python;Java;JavaScript;SQL;Docker;Git,Master's degree,2026-07-22,Synthetic demo data
+JOB-0455,Machine Learning Engineer,Evergreen Digital,Pune,Fresher,Internship,21.2,AWS;NumPy;Pandas;Machine Learning;JavaScript;Docker;Tableau;Java;Python,Master's degree,2026-03-20,Synthetic demo data
+JOB-0456,Data Analyst,Aster Labs,Mumbai,Fresher,Contract,12.9,SQL;Statistics;React;Python;HTML;Excel;Pandas;CSS;Tableau;Power BI,Master's degree,2026-04-17,Synthetic demo data
+JOB-0457,Backend Developer,FutureWorks,Kochi,Fresher,Full-time,16.5,Node.js;Docker;AWS;Python;SQL;Java;Git,Bachelor's degree,2025-11-16,Synthetic demo data
+JOB-0458,Frontend Developer,BluePeak Systems,Bengaluru,1-3 years,Internship,18.0,AWS;JavaScript;Git;CSS;HTML;React,Any degree,2026-07-30,Synthetic demo data
+JOB-0459,Business Analyst,Evergreen Digital,Hyderabad,Fresher,Contract,10.7,Tableau;Statistics;Excel;Power BI;SQL;React;Java;Machine Learning,Master's degree,2026-03-25,Synthetic demo data
+JOB-0460,Business Analyst,DataBridge,Mumbai,1-3 years,Full-time,11.4,Power BI;Tableau;AWS;SQL;Statistics;Excel,Master's degree,2025-12-01,Synthetic demo data
+JOB-0461,Software Developer,Orbit Analytics,Kochi,Fresher,Full-time,18.0,CSS;JavaScript;Git;Java;Docker;Python;SQL,Bachelor's degree,2026-05-21,Synthetic demo data
+JOB-0462,Software Developer,CloudNine Tech,Coimbatore,3-5 years,Contract,7.9,JavaScript;Docker;Java;Excel;Python;SQL;NumPy;Tableau;Git,Master's degree,2026-05-30,Synthetic demo data
+JOB-0463,Machine Learning Engineer,Evergreen Digital,Chennai,Fresher,Internship,4.2,Python;AWS;Power BI;Excel;Machine Learning;Pandas;CSS;Docker;NumPy,Master's degree,2026-06-06,Synthetic demo data
+JOB-0464,Frontend Developer,Evergreen Digital,Delhi,3-5 years,Full-time,23.3,React;CSS;HTML;Python;JavaScript;Git;SQL,Any degree,2026-09-13,Synthetic demo data
+JOB-0465,Business Analyst,CloudNine Tech,Chennai,3-5 years,Internship,14.1,Excel;Power BI;HTML;Tableau;Statistics;SQL,Bachelor's degree,2026-05-24,Synthetic demo data
+JOB-0466,Data Scientist,Evergreen Digital,Remote,3-5 years,Contract,21.7,Python;NumPy;Machine Learning;Pandas;SQL;Statistics;AWS;Docker,Master's degree,2026-01-26,Synthetic demo data
+JOB-0467,Python Developer,Nova Solutions,Chennai,5+ years,Full-time,12.3,AWS;CSS;NumPy;SQL;Java;HTML;Git;Docker;Python,Any degree,2025-12-21,Synthetic demo data
+JOB-0468,Frontend Developer,Evergreen Digital,Hyderabad,Fresher,Internship,19.1,Git;React;Pandas;Docker;Excel;JavaScript;CSS;HTML,Bachelor's degree,2026-03-05,Synthetic demo data
+JOB-0469,Data Scientist,Nova Solutions,Pune,Fresher,Contract,6.2,NumPy;Pandas;Machine Learning;JavaScript;Statistics;Python;SQL,Bachelor's degree,2026-02-11,Synthetic demo data
+JOB-0470,Frontend Developer,DataBridge,Coimbatore,3-5 years,Contract,19.8,Machine Learning;SQL;HTML;React;Git;Python;CSS;JavaScript,Any degree,2026-08-29,Synthetic demo data
+JOB-0471,Full Stack Developer,Evergreen Digital,Bengaluru,Fresher,Contract,13.3,SQL;Machine Learning;Pandas;Node.js;HTML;Docker;JavaScript;Git;React;CSS,Master's degree,2026-04-29,Synthetic demo data
+JOB-0472,Business Analyst,Orbit Analytics,Kochi,5+ years,Contract,8.6,SQL;Statistics;Tableau;Power BI;Excel;Java,Any degree,2026-03-02,Synthetic demo data
+JOB-0473,Data Scientist,CloudNine Tech,Kochi,Fresher,Contract,12.8,Pandas;SQL;Machine Learning;Statistics;NumPy;Power BI;Python;Docker;HTML,Bachelor's degree,2026-02-02,Synthetic demo data
+JOB-0474,Software Developer,BluePeak Systems,Coimbatore,Fresher,Internship,11.9,Excel;Java;Docker;Git;Python;SQL;JavaScript,Bachelor's degree,2026-02-09,Synthetic demo data
+JOB-0475,Business Analyst,CloudNine Tech,Bengaluru,5+ years,Full-time,4.7,Power BI;SQL;Tableau;Java;HTML;Excel;Statistics,Any degree,2026-05-05,Synthetic demo data
+JOB-0476,Machine Learning Engineer,BluePeak Systems,Delhi,Fresher,Full-time,11.3,NumPy;Pandas;Python;SQL;Power BI;Machine Learning;Statistics;Docker;AWS,Bachelor's degree,2026-07-09,Synthetic demo data
+JOB-0477,Frontend Developer,Evergreen Digital,Chennai,1-3 years,Full-time,3.3,JavaScript;HTML;React;NumPy;Statistics;Git;CSS;SQL,Bachelor's degree,2026-09-26,Synthetic demo data
+JOB-0478,Web Developer,Nova Solutions,Remote,1-3 years,Full-time,9.3,Node.js;HTML;JavaScript;Git;React;CSS,Master's degree,2026-07-21,Synthetic demo data
+JOB-0479,Frontend Developer,Orbit Analytics,Hyderabad,1-3 years,Contract,15.0,Excel;JavaScript;HTML;Git;React;Docker;AWS;CSS,Master's degree,2026-09-08,Synthetic demo data
+JOB-0480,Machine Learning Engineer,Aster Labs,Kochi,5+ years,Contract,13.8,Docker;NumPy;Machine Learning;AWS;Pandas;Python,Any degree,2025-11-25,Synthetic demo data
+JOB-0481,Frontend Developer,BluePeak Systems,Mumbai,5+ years,Contract,5.5,React;CSS;HTML;Statistics;Git;JavaScript,Any degree,2025-11-08,Synthetic demo data
+JOB-0482,Machine Learning Engineer,DataBridge,Pune,5+ years,Full-time,21.5,Node.js;Python;Tableau;CSS;Pandas;Machine Learning;Docker;AWS;NumPy,Any degree,2025-10-05,Synthetic demo data
+JOB-0483,Backend Developer,DataBridge,Bengaluru,5+ years,Full-time,19.7,Java;Power BI;Tableau;NumPy;Python;Git;AWS;Docker;Node.js;SQL,Master's degree,2026-05-02,Synthetic demo data
+JOB-0484,Web Developer,CloudNine Tech,Remote,Fresher,Full-time,10.1,React;Git;CSS;Node.js;JavaScript;Python;HTML,Bachelor's degree,2025-11-22,Synthetic demo data
+JOB-0485,Web Developer,FutureWorks,Coimbatore,3-5 years,Full-time,20.9,HTML;JavaScript;Git;React;CSS;Node.js,Any degree,2025-11-29,Synthetic demo data
+JOB-0486,Data Scientist,Aster Labs,Remote,Fresher,Full-time,16.2,Machine Learning;Statistics;NumPy;Python;SQL;Pandas,Bachelor's degree,2026-04-02,Synthetic demo data
+JOB-0487,Python Developer,BluePeak Systems,Hyderabad,5+ years,Contract,19.2,Docker;Tableau;AWS;SQL;Git;Python;NumPy;Pandas,Bachelor's degree,2026-06-01,Synthetic demo data
+JOB-0488,Frontend Developer,FutureWorks,Hyderabad,1-3 years,Internship,11.9,Machine Learning;Power BI;React;Git;CSS;JavaScript;HTML,Bachelor's degree,2026-07-26,Synthetic demo data
+JOB-0489,Backend Developer,FutureWorks,Delhi,1-3 years,Contract,4.3,SQL;Git;Node.js;React;Docker;Power BI;Java;Pandas;Python;AWS,Bachelor's degree,2025-10-31,Synthetic demo data
+JOB-0490,Python Developer,Evergreen Digital,Pune,3-5 years,Full-time,20.4,Python;Docker;Git;SQL;AWS;NumPy,Any degree,2025-11-26,Synthetic demo data
+JOB-0491,Python Developer,Aster Labs,Remote,3-5 years,Contract,18.2,Pandas;Python;AWS;Git;Docker;SQL;NumPy;Statistics;Java,Any degree,2026-08-01,Synthetic demo data
+JOB-0492,Full Stack Developer,DataBridge,Mumbai,5+ years,Internship,5.3,SQL;Git;React;JavaScript;HTML;CSS;Java;Node.js;Docker,Bachelor's degree,2026-03-28,Synthetic demo data
+JOB-0493,Software Developer,DataBridge,Remote,1-3 years,Contract,9.3,CSS;JavaScript;AWS;Java;Docker;SQL;Git;Python,Any degree,2025-12-15,Synthetic demo data
+JOB-0494,Python Developer,Nova Solutions,Chennai,Fresher,Full-time,11.9,Excel;Git;AWS;Python;Java;SQL;Power BI;Docker;NumPy,Bachelor's degree,2026-02-03,Synthetic demo data
+JOB-0495,Web Developer,Orbit Analytics,Kochi,5+ years,Full-time,6.0,HTML;CSS;Git;React;Node.js;JavaScript;NumPy;Python;Docker,Bachelor's degree,2026-01-29,Synthetic demo data
+JOB-0496,Frontend Developer,Orbit Analytics,Kochi,Fresher,Internship,6.3,HTML;React;CSS;JavaScript;Statistics;Git,Any degree,2026-03-29,Synthetic demo data
+JOB-0497,Data Scientist,Evergreen Digital,Mumbai,5+ years,Full-time,19.6,CSS;Pandas;SQL;Statistics;Tableau;Machine Learning;HTML;Python;NumPy,Bachelor's degree,2025-12-07,Synthetic demo data
+JOB-0498,Backend Developer,Aster Labs,Chennai,3-5 years,Full-time,21.3,Python;Node.js;AWS;Docker;Java;Git;SQL,Master's degree,2026-01-31,Synthetic demo data
+JOB-0499,Business Analyst,Orbit Analytics,Kochi,1-3 years,Internship,9.8,Machine Learning;Statistics;Excel;SQL;NumPy;Tableau;Power BI,Any degree,2025-10-29,Synthetic demo data
+JOB-0500,Business Analyst,CloudNine Tech,Coimbatore,3-5 years,Internship,16.5,SQL;React;Git;Power BI;Tableau;Excel;Statistics;JavaScript,Any degree,2025-12-22,Synthetic demo data
+JOB-0501,Data Scientist,BluePeak Systems,Remote,1-3 years,Full-time,8.8,Statistics;SQL;Pandas;Machine Learning;Python;Power BI;NumPy,Bachelor's degree,2026-06-01,Synthetic demo data
+JOB-0502,Business Analyst,Nova Solutions,Bengaluru,5+ years,Full-time,21.1,Power BI;SQL;NumPy;Node.js;Excel;Statistics;Tableau;CSS,Master's degree,2026-03-23,Synthetic demo data
+JOB-0503,Software Developer,CloudNine Tech,Mumbai,Fresher,Full-time,9.4,SQL;Docker;Git;Python;JavaScript;Java,Master's degree,2025-10-22,Synthetic demo data
+JOB-0504,Python Developer,Evergreen Digital,Delhi,Fresher,Contract,6.0,Docker;NumPy;Python;Git;SQL;AWS,Master's degree,2026-05-25,Synthetic demo data
+JOB-0505,Backend Developer,BluePeak Systems,Mumbai,Fresher,Contract,12.8,Git;SQL;Node.js;Docker;AWS;Java;Python,Master's degree,2026-09-01,Synthetic demo data
+JOB-0506,Frontend Developer,BluePeak Systems,Hyderabad,1-3 years,Contract,14.9,CSS;Git;JavaScript;HTML;React,Master's degree,2026-08-23,Synthetic demo data
+JOB-0507,Full Stack Developer,Aster Labs,Coimbatore,5+ years,Internship,9.1,JavaScript;Git;CSS;React;Excel;HTML;Node.js;SQL,Bachelor's degree,2026-10-04,Synthetic demo data
+JOB-0508,Data Analyst,Evergreen Digital,Chennai,5+ years,Internship,5.6,Excel;NumPy;HTML;SQL;Python;React;Tableau;Power BI;Statistics;Pandas,Bachelor's degree,2025-12-24,Synthetic demo data
+JOB-0509,Software Developer,FutureWorks,Hyderabad,5+ years,Internship,9.9,Docker;Python;Java;HTML;Git;SQL;React;Power BI;JavaScript,Any degree,2026-07-28,Synthetic demo data
+JOB-0510,Data Analyst,Aster Labs,Kochi,Fresher,Contract,23.4,Excel;Statistics;Python;SQL;Tableau;Power BI;Docker;AWS;React;Pandas,Master's degree,2025-12-01,Synthetic demo data
+JOB-0511,Machine Learning Engineer,Evergreen Digital,Pune,1-3 years,Full-time,20.1,Excel;AWS;NumPy;Git;Python;Pandas;Machine Learning;Docker;CSS,Any degree,2026-05-02,Synthetic demo data
+JOB-0512,Web Developer,Aster Labs,Hyderabad,5+ years,Full-time,21.3,CSS;Git;Node.js;React;Power BI;HTML;JavaScript,Any degree,2026-01-21,Synthetic demo data
+JOB-0513,Frontend Developer,BluePeak Systems,Bengaluru,3-5 years,Internship,21.0,React;CSS;JavaScript;Power BI;Git;HTML,Any degree,2026-05-17,Synthetic demo data
+JOB-0514,Web Developer,Aster Labs,Delhi,Fresher,Contract,12.1,HTML;CSS;React;JavaScript;Node.js;Git,Master's degree,2026-05-17,Synthetic demo data
+JOB-0515,Data Scientist,Nova Solutions,Hyderabad,3-5 years,Full-time,21.5,SQL;JavaScript;Machine Learning;NumPy;HTML;Statistics;Node.js;Pandas;Python,Bachelor's degree,2026-06-11,Synthetic demo data
+JOB-0516,Backend Developer,BluePeak Systems,Coimbatore,5+ years,Contract,20.0,Node.js;Python;Docker;SQL;AWS;Git;Java,Any degree,2025-11-18,Synthetic demo data
+JOB-0517,Machine Learning Engineer,BluePeak Systems,Kochi,Fresher,Internship,12.4,HTML;AWS;Pandas;Docker;Python;NumPy;Machine Learning;Excel,Bachelor's degree,2026-08-22,Synthetic demo data
+JOB-0518,Data Analyst,Aster Labs,Mumbai,5+ years,Full-time,5.1,Statistics;Pandas;Tableau;Excel;SQL;Python;Power BI,Bachelor's degree,2025-12-22,Synthetic demo data
+JOB-0519,Data Analyst,Orbit Analytics,Delhi,Fresher,Contract,16.7,Power BI;Python;JavaScript;SQL;Statistics;Tableau;React;Pandas;Excel,Any degree,2026-09-21,Synthetic demo data
+JOB-0520,Frontend Developer,CloudNine Tech,Remote,3-5 years,Contract,11.8,HTML;React;CSS;Git;Python;Java;JavaScript,Any degree,2025-11-21,Synthetic demo data
+JOB-0521,Frontend Developer,Nova Solutions,Remote,3-5 years,Contract,15.3,CSS;Java;React;Git;JavaScript;HTML,Any degree,2026-07-22,Synthetic demo data
+JOB-0522,Python Developer,Aster Labs,Delhi,3-5 years,Full-time,23.5,Docker;SQL;JavaScript;Git;React;Machine Learning;Python;NumPy;AWS,Any degree,2026-06-23,Synthetic demo data
+JOB-0523,Data Scientist,Evergreen Digital,Delhi,3-5 years,Full-time,5.2,Python;Machine Learning;NumPy;Statistics;Pandas;Excel;SQL;React,Bachelor's degree,2026-01-24,Synthetic demo data
+JOB-0524,Web Developer,DataBridge,Kochi,3-5 years,Internship,10.9,JavaScript;HTML;React;Node.js;CSS;Git,Master's degree,2026-07-02,Synthetic demo data
+JOB-0525,Data Analyst,FutureWorks,Coimbatore,Fresher,Full-time,7.2,Power BI;CSS;Pandas;Python;Excel;AWS;Tableau;SQL;Statistics,Bachelor's degree,2026-06-14,Synthetic demo data
+JOB-0526,Software Developer,CloudNine Tech,Mumbai,Fresher,Full-time,20.5,Git;SQL;Java;JavaScript;Python;Docker;Node.js,Bachelor's degree,2026-03-24,Synthetic demo data
+JOB-0527,Data Scientist,BluePeak Systems,Chennai,1-3 years,Full-time,19.7,Python;Pandas;NumPy;Excel;SQL;Statistics;Machine Learning;Git,Bachelor's degree,2026-01-05,Synthetic demo data
+JOB-0528,Backend Developer,CloudNine Tech,Pune,1-3 years,Full-time,16.2,Statistics;NumPy;SQL;Java;AWS;Docker;Python;Node.js;Git,Master's degree,2026-08-01,Synthetic demo data
+JOB-0529,Full Stack Developer,CloudNine Tech,Pune,3-5 years,Internship,17.6,JavaScript;SQL;Docker;Java;Git;React;Node.js;CSS;HTML;Power BI,Any degree,2026-01-24,Synthetic demo data
+JOB-0530,Frontend Developer,Orbit Analytics,Hyderabad,5+ years,Full-time,9.4,React;CSS;NumPy;HTML;JavaScript;Git;Python,Master's degree,2025-12-16,Synthetic demo data
+JOB-0531,Python Developer,DataBridge,Coimbatore,5+ years,Internship,16.0,NumPy;JavaScript;AWS;Docker;SQL;Python;Power BI;Git,Master's degree,2026-02-16,Synthetic demo data
+JOB-0532,Frontend Developer,Evergreen Digital,Chennai,3-5 years,Full-time,9.2,Node.js;Git;Pandas;HTML;JavaScript;React;CSS;NumPy,Any degree,2026-01-15,Synthetic demo data
+JOB-0533,Full Stack Developer,FutureWorks,Coimbatore,1-3 years,Contract,7.1,Node.js;SQL;React;JavaScript;HTML;CSS;Git,Master's degree,2026-05-29,Synthetic demo data
+JOB-0534,Software Developer,Evergreen Digital,Pune,5+ years,Contract,20.3,Git;Python;Java;React;Docker;JavaScript;HTML;SQL,Any degree,2026-09-28,Synthetic demo data
+JOB-0535,Frontend Developer,Orbit Analytics,Kochi,3-5 years,Full-time,9.6,CSS;JavaScript;React;Git;NumPy;HTML,Bachelor's degree,2026-02-27,Synthetic demo data
+JOB-0536,Backend Developer,Evergreen Digital,Coimbatore,5+ years,Internship,20.5,Java;Node.js;AWS;SQL;Python;Docker;Git;Power BI,Master's degree,2026-06-11,Synthetic demo data
+JOB-0537,Backend Developer,Nova Solutions,Hyderabad,5+ years,Full-time,14.2,Pandas;SQL;Node.js;Git;Java;Tableau;React;Python;AWS;Docker,Bachelor's degree,2026-02-03,Synthetic demo data
+JOB-0538,Data Scientist,Aster Labs,Bengaluru,1-3 years,Full-time,22.1,Statistics;Pandas;JavaScript;SQL;Power BI;Machine Learning;Python;NumPy,Master's degree,2026-05-12,Synthetic demo data
+JOB-0539,Web Developer,Aster Labs,Bengaluru,3-5 years,Contract,11.2,JavaScript;CSS;Machine Learning;React;HTML;Node.js;Git,Bachelor's degree,2026-07-30,Synthetic demo data
+JOB-0540,Full Stack Developer,DataBridge,Remote,5+ years,Contract,7.2,JavaScript;Node.js;Git;HTML;SQL;Power BI;Docker;Pandas;CSS;React,Bachelor's degree,2026-02-18,Synthetic demo data
+JOB-0541,Data Scientist,Evergreen Digital,Kochi,3-5 years,Internship,20.7,Machine Learning;Node.js;Statistics;Python;NumPy;Power BI;Pandas;Excel;SQL,Master's degree,2026-03-18,Synthetic demo data
+JOB-0542,Business Analyst,CloudNine Tech,Chennai,5+ years,Internship,22.9,Excel;Power BI;Statistics;Tableau;JavaScript;SQL,Bachelor's degree,2026-07-16,Synthetic demo data
+JOB-0543,Software Developer,BluePeak Systems,Remote,3-5 years,Contract,12.5,SQL;JavaScript;Python;Java;Docker;Statistics;CSS;Git,Master's degree,2026-06-20,Synthetic demo data
+JOB-0544,Full Stack Developer,Nova Solutions,Hyderabad,5+ years,Full-time,3.2,Node.js;CSS;HTML;Git;SQL;JavaScript;React,Bachelor's degree,2025-10-06,Synthetic demo data
+JOB-0545,Python Developer,CloudNine Tech,Kochi,3-5 years,Full-time,6.6,AWS;Statistics;SQL;Git;NumPy;Python;Docker;Pandas,Bachelor's degree,2025-11-28,Synthetic demo data
+JOB-0546,Data Scientist,Evergreen Digital,Bengaluru,5+ years,Contract,6.7,SQL;Statistics;Git;Machine Learning;Pandas;NumPy;Python,Any degree,2026-09-17,Synthetic demo data
+JOB-0547,Full Stack Developer,Orbit Analytics,Coimbatore,Fresher,Full-time,19.2,React;CSS;HTML;Power BI;Node.js;SQL;Git;JavaScript,Bachelor's degree,2026-05-30,Synthetic demo data
+JOB-0548,Machine Learning Engineer,DataBridge,Chennai,1-3 years,Full-time,19.7,NumPy;Machine Learning;AWS;Docker;Pandas;HTML;Python,Any degree,2026-07-11,Synthetic demo data
+JOB-0549,Python Developer,DataBridge,Hyderabad,5+ years,Contract,5.5,NumPy;SQL;Git;Python;AWS;Docker,Bachelor's degree,2026-08-11,Synthetic demo data
+JOB-0550,Machine Learning Engineer,DataBridge,Chennai,3-5 years,Internship,16.1,CSS;Machine Learning;AWS;Pandas;Python;NumPy;Docker;Git,Bachelor's degree,2026-08-31,Synthetic demo data
+JOB-0551,Web Developer,CloudNine Tech,Pune,1-3 years,Internship,19.0,Git;Power BI;React;Machine Learning;Node.js;HTML;SQL;JavaScript;CSS,Any degree,2026-04-25,Synthetic demo data
+JOB-0552,Frontend Developer,Nova Solutions,Remote,1-3 years,Internship,15.3,React;HTML;Git;JavaScript;CSS,Bachelor's degree,2026-06-07,Synthetic demo data
+JOB-0553,Data Analyst,Aster Labs,Bengaluru,3-5 years,Contract,9.2,Tableau;SQL;Pandas;Statistics;Power BI;Excel;Python,Bachelor's degree,2026-03-26,Synthetic demo data
+JOB-0554,Web Developer,CloudNine Tech,Mumbai,3-5 years,Internship,19.5,HTML;Git;JavaScript;React;Node.js;CSS,Bachelor's degree,2026-01-11,Synthetic demo data
+JOB-0555,Backend Developer,DataBridge,Delhi,3-5 years,Full-time,12.3,CSS;Node.js;SQL;Python;Docker;Git;Java;JavaScript;AWS,Bachelor's degree,2026-09-01,Synthetic demo data
+JOB-0556,Frontend Developer,DataBridge,Bengaluru,Fresher,Full-time,15.4,Git;React;CSS;JavaScript;HTML,Bachelor's degree,2026-06-06,Synthetic demo data
+JOB-0557,Full Stack Developer,DataBridge,Delhi,1-3 years,Internship,8.2,HTML;Node.js;JavaScript;CSS;Git;SQL;React,Master's degree,2025-12-13,Synthetic demo data
+JOB-0558,Frontend Developer,CloudNine Tech,Kochi,5+ years,Contract,13.6,Git;Machine Learning;HTML;CSS;JavaScript;React,Any degree,2026-02-25,Synthetic demo data
+JOB-0559,Python Developer,Orbit Analytics,Mumbai,5+ years,Contract,10.9,Python;SQL;Docker;NumPy;Statistics;CSS;Node.js;AWS;Git,Any degree,2026-01-31,Synthetic demo data
+JOB-0560,Data Scientist,Orbit Analytics,Delhi,5+ years,Contract,23.4,JavaScript;SQL;Statistics;NumPy;Python;Docker;Machine Learning;Pandas,Master's degree,2026-03-22,Synthetic demo data
+JOB-0561,Frontend Developer,DataBridge,Delhi,3-5 years,Internship,10.3,CSS;SQL;HTML;Git;Python;React;JavaScript,Any degree,2026-01-27,Synthetic demo data
+JOB-0562,Machine Learning Engineer,DataBridge,Kochi,Fresher,Contract,16.3,Machine Learning;Python;NumPy;AWS;Pandas;Docker,Any degree,2026-09-20,Synthetic demo data
+JOB-0563,Python Developer,BluePeak Systems,Delhi,5+ years,Internship,15.3,Docker;React;Python;NumPy;AWS;Git;Pandas;SQL,Bachelor's degree,2026-01-12,Synthetic demo data
+JOB-0564,Web Developer,CloudNine Tech,Mumbai,1-3 years,Internship,11.4,Git;CSS;Pandas;HTML;React;JavaScript;Machine Learning;Excel;Node.js,Master's degree,2026-10-01,Synthetic demo data
+JOB-0565,Python Developer,CloudNine Tech,Bengaluru,1-3 years,Contract,6.8,Excel;AWS;Python;Git;Docker;SQL;NumPy;Statistics;CSS,Bachelor's degree,2026-02-16,Synthetic demo data
+JOB-0566,Business Analyst,Nova Solutions,Kochi,Fresher,Internship,6.5,Power BI;Tableau;Statistics;Docker;Excel;SQL,Master's degree,2026-08-22,Synthetic demo data
+JOB-0567,Backend Developer,Orbit Analytics,Kochi,Fresher,Full-time,4.3,Java;Node.js;Docker;AWS;Git;Python;SQL,Bachelor's degree,2025-10-29,Synthetic demo data
+JOB-0568,Business Analyst,Nova Solutions,Remote,3-5 years,Contract,12.9,Tableau;Statistics;Power BI;SQL;Excel,Master's degree,2025-11-29,Synthetic demo data
+JOB-0569,Backend Developer,FutureWorks,Pune,Fresher,Full-time,12.6,Java;Python;Git;Docker;NumPy;Tableau;SQL;Node.js;AWS,Any degree,2026-03-13,Synthetic demo data
+JOB-0570,Python Developer,FutureWorks,Kochi,5+ years,Internship,11.7,Git;NumPy;Docker;SQL;Python;AWS,Bachelor's degree,2026-10-03,Synthetic demo data
+JOB-0571,Machine Learning Engineer,Orbit Analytics,Hyderabad,5+ years,Contract,18.5,Pandas;Machine Learning;AWS;Python;NumPy;Docker,Bachelor's degree,2026-04-09,Synthetic demo data
+JOB-0572,Backend Developer,BluePeak Systems,Mumbai,5+ years,Full-time,21.8,Tableau;Java;Excel;Python;AWS;Pandas;Git;SQL;Node.js;Docker,Bachelor's degree,2026-01-31,Synthetic demo data
+JOB-0573,Full Stack Developer,CloudNine Tech,Pune,5+ years,Contract,7.6,CSS;Java;Git;Node.js;JavaScript;SQL;HTML;React,Master's degree,2025-10-29,Synthetic demo data
+JOB-0574,Frontend Developer,DataBridge,Chennai,3-5 years,Contract,22.1,CSS;Git;JavaScript;React;HTML,Any degree,2026-03-23,Synthetic demo data
+JOB-0575,Full Stack Developer,FutureWorks,Bengaluru,3-5 years,Contract,15.1,React;SQL;Tableau;Java;CSS;Git;JavaScript;Machine Learning;Node.js;HTML,Bachelor's degree,2026-04-28,Synthetic demo data
+JOB-0576,Data Analyst,Aster Labs,Remote,5+ years,Contract,6.0,Statistics;Power BI;SQL;Tableau;Excel;JavaScript;Python;Pandas,Master's degree,2026-06-14,Synthetic demo data
+JOB-0577,Frontend Developer,Evergreen Digital,Kochi,1-3 years,Contract,9.1,React;Git;HTML;Machine Learning;JavaScript;Python;Excel;CSS,Master's degree,2026-09-04,Synthetic demo data
+JOB-0578,Machine Learning Engineer,Nova Solutions,Mumbai,1-3 years,Full-time,14.5,NumPy;AWS;Pandas;Python;Tableau;Docker;Machine Learning,Master's degree,2026-03-02,Synthetic demo data
+JOB-0579,Frontend Developer,Nova Solutions,Chennai,1-3 years,Contract,18.8,NumPy;Tableau;HTML;CSS;Git;JavaScript;React,Any degree,2026-09-07,Synthetic demo data
+JOB-0580,Software Developer,DataBridge,Coimbatore,3-5 years,Internship,21.0,Statistics;Docker;Java;Python;React;Git;JavaScript;Excel;SQL,Bachelor's degree,2025-10-22,Synthetic demo data
+JOB-0581,Python Developer,Nova Solutions,Bengaluru,5+ years,Full-time,3.7,Node.js;AWS;NumPy;HTML;Statistics;Docker;SQL;Git;Python,Bachelor's degree,2026-03-15,Synthetic demo data
+JOB-0582,Frontend Developer,Evergreen Digital,Kochi,3-5 years,Full-time,5.5,Git;CSS;Python;JavaScript;React;Statistics;HTML,Bachelor's degree,2026-08-03,Synthetic demo data
+JOB-0583,Frontend Developer,CloudNine Tech,Delhi,5+ years,Internship,17.8,CSS;JavaScript;HTML;React;AWS;Git,Master's degree,2025-12-16,Synthetic demo data
+JOB-0584,Python Developer,Nova Solutions,Remote,5+ years,Full-time,13.9,NumPy;AWS;Docker;Git;Python;SQL,Any degree,2026-01-02,Synthetic demo data
+JOB-0585,Data Scientist,FutureWorks,Chennai,Fresher,Full-time,15.1,Statistics;Pandas;React;SQL;NumPy;Machine Learning;Python,Any degree,2026-07-14,Synthetic demo data
+JOB-0586,Data Scientist,DataBridge,Mumbai,Fresher,Internship,22.0,AWS;Python;Pandas;CSS;SQL;Statistics;NumPy;Machine Learning,Master's degree,2025-11-01,Synthetic demo data
+JOB-0587,Full Stack Developer,Aster Labs,Hyderabad,Fresher,Full-time,6.0,React;JavaScript;CSS;HTML;Excel;Git;Node.js;Power BI;Statistics;SQL,Bachelor's degree,2026-07-28,Synthetic demo data
+JOB-0588,Business Analyst,BluePeak Systems,Remote,3-5 years,Contract,11.0,Excel;Tableau;Statistics;SQL;NumPy;Power BI,Bachelor's degree,2026-03-14,Synthetic demo data
+JOB-0589,Frontend Developer,DataBridge,Chennai,3-5 years,Internship,17.6,HTML;JavaScript;Git;React;CSS,Bachelor's degree,2026-03-28,Synthetic demo data
+JOB-0590,Business Analyst,DataBridge,Chennai,3-5 years,Full-time,14.2,Statistics;Excel;JavaScript;Tableau;Power BI;SQL,Any degree,2025-12-28,Synthetic demo data
+JOB-0591,Backend Developer,CloudNine Tech,Hyderabad,3-5 years,Full-time,5.1,Docker;Node.js;Java;Git;Python;AWS;SQL,Bachelor's degree,2026-03-25,Synthetic demo data
+JOB-0592,Data Scientist,BluePeak Systems,Remote,3-5 years,Internship,15.0,Python;SQL;Pandas;Statistics;NumPy;Machine Learning,Master's degree,2025-12-26,Synthetic demo data
+JOB-0593,Software Developer,FutureWorks,Remote,5+ years,Contract,15.4,Git;JavaScript;Docker;SQL;Python;Java,Master's degree,2026-09-30,Synthetic demo data
+JOB-0594,Full Stack Developer,DataBridge,Delhi,5+ years,Full-time,12.2,SQL;Git;JavaScript;Tableau;Node.js;React;HTML;CSS,Master's degree,2026-02-07,Synthetic demo data
+JOB-0595,Full Stack Developer,BluePeak Systems,Chennai,Fresher,Internship,8.0,Node.js;Machine Learning;HTML;Git;JavaScript;SQL;CSS;React;Pandas,Bachelor's degree,2026-07-12,Synthetic demo data
+JOB-0596,Business Analyst,Aster Labs,Delhi,1-3 years,Contract,13.5,Statistics;SQL;Tableau;Power BI;Excel,Any degree,2025-10-23,Synthetic demo data
+JOB-0597,Full Stack Developer,Nova Solutions,Remote,3-5 years,Full-time,23.9,Git;SQL;CSS;HTML;Node.js;JavaScript;React,Any degree,2026-01-07,Synthetic demo data
+JOB-0598,Business Analyst,CloudNine Tech,Chennai,3-5 years,Full-time,13.8,SQL;Power BI;Excel;Tableau;Statistics,Bachelor's degree,2026-03-02,Synthetic demo data
+JOB-0599,Frontend Developer,Orbit Analytics,Mumbai,3-5 years,Full-time,3.0,React;CSS;Node.js;JavaScript;Git;HTML;Docker;Excel,Any degree,2025-12-17,Synthetic demo data
+JOB-0600,Backend Developer,Orbit Analytics,Pune,3-5 years,Contract,5.3,SQL;AWS;Java;Machine Learning;Git;Docker;Node.js;Python,Master's degree,2026-07-01,Synthetic demo data
+JOB-0601,Backend Developer,Orbit Analytics,Coimbatore,1-3 years,Internship,8.3,SQL;AWS;Node.js;Excel;Docker;Python;Java;CSS;Git,Master's degree,2026-03-16,Synthetic demo data
+JOB-0602,Machine Learning Engineer,CloudNine Tech,Bengaluru,3-5 years,Internship,12.1,JavaScript;Machine Learning;Docker;Pandas;Python;Node.js;AWS;NumPy,Master's degree,2025-10-06,Synthetic demo data
+JOB-0603,Web Developer,Nova Solutions,Pune,Fresher,Full-time,17.0,Node.js;Git;React;HTML;JavaScript;CSS,Master's degree,2025-10-29,Synthetic demo data
+JOB-0604,Software Developer,FutureWorks,Delhi,5+ years,Full-time,5.3,Python;Java;SQL;Docker;JavaScript;Git,Bachelor's degree,2026-09-24,Synthetic demo data
+JOB-0605,Python Developer,Nova Solutions,Coimbatore,5+ years,Contract,9.1,Docker;Machine Learning;SQL;NumPy;Git;Python;AWS,Master's degree,2026-08-23,Synthetic demo data
+JOB-0606,Backend Developer,Evergreen Digital,Hyderabad,5+ years,Full-time,13.0,Statistics;Python;Node.js;Git;Java;Docker;AWS;SQL,Bachelor's degree,2025-10-11,Synthetic demo data
+JOB-0607,Full Stack Developer,DataBridge,Bengaluru,5+ years,Full-time,15.9,Java;Node.js;SQL;React;Git;JavaScript;HTML;CSS,Bachelor's degree,2026-09-08,Synthetic demo data
+JOB-0608,Backend Developer,Evergreen Digital,Chennai,3-5 years,Contract,8.9,Java;Machine Learning;SQL;React;Docker;Python;JavaScript;Git;AWS;Node.js,Master's degree,2025-10-05,Synthetic demo data
+JOB-0609,Backend Developer,DataBridge,Mumbai,5+ years,Contract,22.1,Node.js;Git;SQL;Docker;AWS;NumPy;Java;Python,Bachelor's degree,2026-02-26,Synthetic demo data
+JOB-0610,Python Developer,FutureWorks,Pune,3-5 years,Internship,19.4,Git;Docker;Pandas;AWS;Machine Learning;Python;SQL;NumPy,Any degree,2025-11-29,Synthetic demo data
+JOB-0611,Machine Learning Engineer,CloudNine Tech,Chennai,Fresher,Internship,23.3,Docker;Statistics;Python;Pandas;AWS;Machine Learning;NumPy,Any degree,2026-06-29,Synthetic demo data
+JOB-0612,Web Developer,DataBridge,Delhi,3-5 years,Internship,23.5,Docker;JavaScript;HTML;Tableau;CSS;React;Python;Node.js;Git,Master's degree,2026-02-17,Synthetic demo data
+JOB-0613,Data Scientist,Aster Labs,Hyderabad,5+ years,Contract,17.4,SQL;JavaScript;Pandas;CSS;Statistics;NumPy;Machine Learning;Python;Java,Any degree,2026-08-27,Synthetic demo data
+JOB-0614,Python Developer,DataBridge,Coimbatore,5+ years,Internship,17.9,Docker;NumPy;Python;Node.js;Git;SQL;AWS;Tableau;Power BI,Any degree,2026-05-25,Synthetic demo data
+JOB-0615,Software Developer,Aster Labs,Remote,1-3 years,Contract,3.8,Python;Machine Learning;Git;Java;Docker;SQL;JavaScript,Bachelor's degree,2026-05-15,Synthetic demo data
+JOB-0616,Python Developer,FutureWorks,Pune,Fresher,Internship,21.6,SQL;NumPy;Statistics;Python;AWS;Git;CSS;Docker,Master's degree,2026-07-28,Synthetic demo data
+JOB-0617,Backend Developer,BluePeak Systems,Delhi,3-5 years,Internship,16.3,Docker;CSS;Node.js;Git;SQL;NumPy;Java;AWS;Python,Any degree,2026-06-21,Synthetic demo data
+JOB-0618,Frontend Developer,DataBridge,Delhi,3-5 years,Full-time,21.9,Node.js;Git;JavaScript;React;HTML;CSS,Bachelor's degree,2026-01-24,Synthetic demo data
+JOB-0619,Python Developer,Nova Solutions,Hyderabad,Fresher,Full-time,4.5,Git;Docker;AWS;HTML;Python;Java;NumPy;SQL;Tableau,Bachelor's degree,2026-02-14,Synthetic demo data
+JOB-0620,Backend Developer,Nova Solutions,Delhi,Fresher,Full-time,20.4,Git;Node.js;SQL;Python;Java;Docker;AWS,Any degree,2026-09-12,Synthetic demo data
+JOB-0621,Python Developer,FutureWorks,Chennai,1-3 years,Full-time,13.1,NumPy;Excel;Docker;Python;AWS;Git;SQL,Any degree,2026-02-19,Synthetic demo data
+JOB-0622,Python Developer,Aster Labs,Coimbatore,Fresher,Internship,9.2,Machine Learning;NumPy;Docker;Pandas;AWS;Python;Git;SQL,Any degree,2026-03-06,Synthetic demo data
+JOB-0623,Python Developer,CloudNine Tech,Pune,3-5 years,Full-time,22.4,AWS;SQL;Docker;NumPy;Python;Git,Any degree,2026-03-22,Synthetic demo data
+JOB-0624,Data Scientist,BluePeak Systems,Coimbatore,1-3 years,Full-time,12.0,Pandas;Excel;SQL;Docker;CSS;Python;Statistics;NumPy;Machine Learning,Master's degree,2025-12-01,Synthetic demo data
+JOB-0625,Python Developer,Aster Labs,Bengaluru,1-3 years,Contract,6.1,JavaScript;HTML;Git;Statistics;Docker;SQL;Python;NumPy;AWS,Master's degree,2026-02-02,Synthetic demo data
+JOB-0626,Data Scientist,FutureWorks,Bengaluru,1-3 years,Contract,10.4,Machine Learning;SQL;Python;Statistics;Pandas;NumPy,Master's degree,2026-03-01,Synthetic demo data
+JOB-0627,Frontend Developer,Orbit Analytics,Remote,1-3 years,Contract,4.8,JavaScript;Node.js;Git;React;HTML;Python;SQL;CSS,Any degree,2026-03-03,Synthetic demo data
+JOB-0628,Full Stack Developer,CloudNine Tech,Chennai,Fresher,Contract,10.6,Docker;Git;Node.js;SQL;HTML;JavaScript;CSS;React,Bachelor's degree,2026-05-07,Synthetic demo data
+JOB-0629,Frontend Developer,CloudNine Tech,Chennai,1-3 years,Contract,18.4,Power BI;CSS;JavaScript;Git;HTML;React,Any degree,2026-03-01,Synthetic demo data
+JOB-0630,Machine Learning Engineer,Aster Labs,Bengaluru,3-5 years,Full-time,4.7,NumPy;Pandas;Machine Learning;AWS;Python;Docker,Bachelor's degree,2026-09-28,Synthetic demo data
+JOB-0631,Business Analyst,Orbit Analytics,Coimbatore,3-5 years,Full-time,6.3,Excel;React;SQL;Tableau;Machine Learning;Statistics;Docker;Power BI,Any degree,2026-09-18,Synthetic demo data
+JOB-0632,Business Analyst,Evergreen Digital,Remote,3-5 years,Internship,7.8,Statistics;Power BI;Node.js;Tableau;Excel;SQL,Bachelor's degree,2026-05-18,Synthetic demo data
+JOB-0633,Data Scientist,Orbit Analytics,Pune,5+ years,Contract,6.5,Docker;SQL;Statistics;Java;NumPy;Machine Learning;Excel;Pandas;Python,Master's degree,2025-11-07,Synthetic demo data
+JOB-0634,Backend Developer,Evergreen Digital,Bengaluru,Fresher,Full-time,7.5,Machine Learning;Node.js;AWS;Docker;SQL;Git;Python;Java,Bachelor's degree,2026-04-29,Synthetic demo data
+JOB-0635,Web Developer,Orbit Analytics,Coimbatore,Fresher,Contract,5.0,Git;React;Node.js;Statistics;JavaScript;CSS;HTML,Master's degree,2026-09-30,Synthetic demo data
+JOB-0636,Machine Learning Engineer,FutureWorks,Delhi,Fresher,Internship,20.0,Docker;Python;AWS;Machine Learning;Node.js;React;NumPy;Pandas,Bachelor's degree,2026-09-22,Synthetic demo data
+JOB-0637,Business Analyst,DataBridge,Hyderabad,1-3 years,Internship,6.4,Machine Learning;AWS;Power BI;Excel;Tableau;NumPy;SQL;Statistics,Any degree,2026-01-13,Synthetic demo data
+JOB-0638,Business Analyst,DataBridge,Hyderabad,Fresher,Full-time,14.9,Statistics;SQL;Excel;Tableau;Machine Learning;Docker;Power BI,Master's degree,2026-08-16,Synthetic demo data
+JOB-0639,Data Analyst,CloudNine Tech,Chennai,3-5 years,Internship,10.6,Tableau;HTML;Statistics;Python;Pandas;SQL;Power BI;Excel,Bachelor's degree,2026-08-29,Synthetic demo data
+JOB-0640,Python Developer,Nova Solutions,Delhi,1-3 years,Contract,10.7,NumPy;Tableau;Git;JavaScript;Docker;AWS;Python;SQL;Pandas,Any degree,2026-04-27,Synthetic demo data
+JOB-0641,Machine Learning Engineer,Aster Labs,Hyderabad,Fresher,Full-time,20.9,NumPy;Python;Machine Learning;AWS;Pandas;Docker,Master's degree,2026-03-26,Synthetic demo data
+JOB-0642,Python Developer,CloudNine Tech,Chennai,5+ years,Contract,7.2,Node.js;Excel;Python;AWS;NumPy;Docker;SQL;Git;Java,Master's degree,2026-09-01,Synthetic demo data
+JOB-0643,Machine Learning Engineer,Aster Labs,Remote,1-3 years,Contract,6.1,AWS;NumPy;Machine Learning;Python;Power BI;SQL;Docker;Pandas,Bachelor's degree,2026-04-24,Synthetic demo data
+JOB-0644,Business Analyst,Nova Solutions,Kochi,1-3 years,Full-time,7.4,Power BI;SQL;Excel;Tableau;Statistics,Bachelor's degree,2025-10-19,Synthetic demo data
+JOB-0645,Backend Developer,Nova Solutions,Remote,1-3 years,Internship,21.8,Docker;AWS;HTML;Git;Node.js;Machine Learning;Python;SQL;Java,Bachelor's degree,2026-09-07,Synthetic demo data
+JOB-0646,Data Scientist,FutureWorks,Delhi,Fresher,Internship,19.4,Python;NumPy;Statistics;Machine Learning;Git;HTML;Docker;SQL;Pandas,Any degree,2026-06-25,Synthetic demo data
+JOB-0647,Data Scientist,CloudNine Tech,Kochi,3-5 years,Full-time,19.6,NumPy;Machine Learning;Pandas;Python;Statistics;HTML;SQL,Any degree,2026-03-10,Synthetic demo data
+JOB-0648,Software Developer,Aster Labs,Hyderabad,1-3 years,Contract,17.6,Docker;Java;SQL;JavaScript;Python;Git,Bachelor's degree,2025-12-01,Synthetic demo data
+JOB-0649,Backend Developer,Aster Labs,Mumbai,3-5 years,Internship,20.2,NumPy;SQL;Git;Python;Docker;AWS;Java;Node.js,Bachelor's degree,2025-10-11,Synthetic demo data
+JOB-0650,Frontend Developer,Orbit Analytics,Delhi,3-5 years,Full-time,14.6,HTML;Node.js;JavaScript;CSS;React;Git;Tableau;NumPy,Bachelor's degree,2025-12-31,Synthetic demo data
+JOB-0651,Backend Developer,BluePeak Systems,Kochi,Fresher,Internship,12.3,Node.js;Machine Learning;SQL;Docker;AWS;Python;Git;Pandas;Java;Tableau,Any degree,2026-09-18,Synthetic demo data
+JOB-0652,Software Developer,Nova Solutions,Delhi,Fresher,Contract,19.4,Docker;SQL;JavaScript;Tableau;Git;Python;Java;HTML;Pandas,Any degree,2026-05-12,Synthetic demo data
+JOB-0653,Software Developer,FutureWorks,Remote,3-5 years,Contract,6.6,Python;SQL;JavaScript;Docker;Machine Learning;NumPy;Java;Git,Any degree,2026-02-26,Synthetic demo data
+JOB-0654,Web Developer,CloudNine Tech,Delhi,1-3 years,Full-time,17.9,Pandas;JavaScript;Node.js;SQL;React;Git;CSS;Java;HTML,Bachelor's degree,2026-01-19,Synthetic demo data
+JOB-0655,Data Scientist,CloudNine Tech,Coimbatore,Fresher,Internship,11.0,Node.js;Pandas;React;NumPy;Git;Python;Machine Learning;SQL;Statistics,Any degree,2026-07-30,Synthetic demo data
+JOB-0656,Frontend Developer,Nova Solutions,Mumbai,Fresher,Contract,4.7,React;JavaScript;Git;Java;CSS;HTML;Excel,Bachelor's degree,2025-11-17,Synthetic demo data
+JOB-0657,Data Analyst,Evergreen Digital,Mumbai,1-3 years,Full-time,4.6,Excel;Python;Statistics;Pandas;Tableau;Power BI;SQL,Master's degree,2026-06-20,Synthetic demo data
+JOB-0658,Backend Developer,DataBridge,Delhi,5+ years,Contract,16.3,SQL;Docker;Java;AWS;Git;Python;Node.js,Master's degree,2026-07-14,Synthetic demo data
+JOB-0659,Python Developer,CloudNine Tech,Remote,3-5 years,Full-time,7.0,Git;CSS;AWS;Docker;NumPy;SQL;HTML;Python,Bachelor's degree,2026-01-03,Synthetic demo data
+JOB-0660,Data Analyst,BluePeak Systems,Bengaluru,3-5 years,Contract,13.1,Git;Power BI;Tableau;Python;Pandas;Excel;SQL;Statistics,Bachelor's degree,2026-04-09,Synthetic demo data
+JOB-0661,Full Stack Developer,Nova Solutions,Chennai,3-5 years,Full-time,19.7,JavaScript;React;SQL;Node.js;Power BI;CSS;HTML;Tableau;Git,Any degree,2026-01-28,Synthetic demo data
+JOB-0662,Backend Developer,Orbit Analytics,Bengaluru,Fresher,Internship,8.3,Pandas;Python;Machine Learning;SQL;Docker;Statistics;Node.js;Git;Java;AWS,Master's degree,2026-05-07,Synthetic demo data
+JOB-0663,Business Analyst,DataBridge,Chennai,1-3 years,Internship,10.8,Statistics;JavaScript;AWS;Tableau;Power BI;SQL;Excel,Bachelor's degree,2026-04-27,Synthetic demo data
+JOB-0664,Data Scientist,FutureWorks,Hyderabad,Fresher,Contract,9.0,Pandas;Machine Learning;NumPy;SQL;Python;Statistics,Bachelor's degree,2026-01-08,Synthetic demo data
+JOB-0665,Web Developer,Nova Solutions,Pune,3-5 years,Full-time,7.1,React;CSS;Git;HTML;JavaScript;Node.js,Master's degree,2026-01-22,Synthetic demo data
+JOB-0666,Data Analyst,Evergreen Digital,Coimbatore,Fresher,Contract,9.0,Pandas;Statistics;SQL;Power BI;Python;Tableau;CSS;JavaScript;Excel,Master's degree,2026-09-16,Synthetic demo data
+JOB-0667,Full Stack Developer,Nova Solutions,Mumbai,3-5 years,Contract,18.8,Git;React;HTML;Node.js;JavaScript;SQL;CSS,Master's degree,2026-08-25,Synthetic demo data
+JOB-0668,Full Stack Developer,FutureWorks,Chennai,Fresher,Full-time,4.0,HTML;Statistics;Power BI;Node.js;React;SQL;CSS;Git;JavaScript,Bachelor's degree,2026-07-25,Synthetic demo data
+JOB-0669,Data Scientist,Aster Labs,Mumbai,Fresher,Full-time,4.0,NumPy;SQL;Java;Statistics;Tableau;Python;Machine Learning;Pandas,Master's degree,2026-08-27,Synthetic demo data
+JOB-0670,Software Developer,BluePeak Systems,Bengaluru,3-5 years,Full-time,18.8,Java;Git;React;Docker;Python;JavaScript;SQL;Tableau,Master's degree,2025-11-12,Synthetic demo data
+JOB-0671,Frontend Developer,Orbit Analytics,Mumbai,3-5 years,Internship,13.1,JavaScript;React;CSS;HTML;Git,Bachelor's degree,2026-05-22,Synthetic demo data
+JOB-0672,Software Developer,BluePeak Systems,Chennai,5+ years,Full-time,7.5,Git;Java;JavaScript;Python;Docker;SQL,Any degree,2026-06-16,Synthetic demo data
+JOB-0673,Frontend Developer,CloudNine Tech,Remote,Fresher,Full-time,7.6,JavaScript;React;Pandas;CSS;Docker;Git;HTML;Java,Master's degree,2026-03-21,Synthetic demo data
+JOB-0674,Frontend Developer,CloudNine Tech,Mumbai,Fresher,Full-time,12.7,Tableau;CSS;Git;JavaScript;HTML;React,Bachelor's degree,2026-08-09,Synthetic demo data
+JOB-0675,Web Developer,Orbit Analytics,Pune,3-5 years,Full-time,22.5,Git;Node.js;HTML;JavaScript;CSS;React,Bachelor's degree,2026-04-06,Synthetic demo data
+JOB-0676,Backend Developer,Evergreen Digital,Pune,Fresher,Full-time,16.6,AWS;Java;Python;SQL;HTML;Node.js;Docker;Git,Any degree,2026-03-02,Synthetic demo data
+JOB-0677,Web Developer,BluePeak Systems,Coimbatore,1-3 years,Full-time,7.6,HTML;CSS;Git;React;Java;Pandas;Node.js;JavaScript,Bachelor's degree,2026-09-16,Synthetic demo data
+JOB-0678,Business Analyst,Nova Solutions,Delhi,Fresher,Full-time,18.4,Git;Tableau;CSS;SQL;Power BI;Excel;Statistics,Any degree,2026-05-20,Synthetic demo data
+JOB-0679,Frontend Developer,Aster Labs,Chennai,1-3 years,Internship,22.1,JavaScript;Excel;React;Git;CSS;HTML,Any degree,2026-02-02,Synthetic demo data
+JOB-0680,Software Developer,Orbit Analytics,Bengaluru,Fresher,Internship,13.0,Excel;Git;Docker;Python;Java;JavaScript;SQL,Master's degree,2026-09-24,Synthetic demo data
+JOB-0681,Python Developer,Orbit Analytics,Chennai,Fresher,Full-time,14.9,NumPy;Excel;Git;HTML;Docker;SQL;AWS;Python,Master's degree,2026-06-10,Synthetic demo data
+JOB-0682,Full Stack Developer,Evergreen Digital,Kochi,3-5 years,Contract,12.6,Git;Node.js;Excel;React;SQL;CSS;JavaScript;HTML,Master's degree,2026-05-03,Synthetic demo data
+JOB-0683,Machine Learning Engineer,DataBridge,Delhi,3-5 years,Full-time,18.6,Excel;React;AWS;Java;Docker;Machine Learning;Pandas;NumPy;Python,Bachelor's degree,2026-03-25,Synthetic demo data
+JOB-0684,Data Scientist,Nova Solutions,Mumbai,3-5 years,Full-time,3.9,Python;Pandas;SQL;React;Statistics;Machine Learning;NumPy;Tableau,Any degree,2025-10-10,Synthetic demo data
+JOB-0685,Machine Learning Engineer,Aster Labs,Kochi,1-3 years,Contract,17.3,AWS;Python;Machine Learning;NumPy;Docker;Pandas,Any degree,2026-05-09,Synthetic demo data
+JOB-0686,Business Analyst,Orbit Analytics,Coimbatore,1-3 years,Contract,20.3,Statistics;HTML;SQL;Excel;Power BI;Tableau,Bachelor's degree,2026-09-07,Synthetic demo data
+JOB-0687,Frontend Developer,FutureWorks,Mumbai,1-3 years,Full-time,18.0,NumPy;React;HTML;Git;JavaScript;AWS;CSS,Bachelor's degree,2026-06-26,Synthetic demo data
+JOB-0688,Backend Developer,Nova Solutions,Delhi,5+ years,Full-time,21.8,Git;Docker;AWS;Node.js;Python;Java;SQL,Master's degree,2025-12-03,Synthetic demo data
+JOB-0689,Software Developer,Evergreen Digital,Bengaluru,5+ years,Internship,7.2,React;Java;Docker;Python;SQL;JavaScript;Git,Master's degree,2026-08-22,Synthetic demo data
+JOB-0690,Software Developer,Orbit Analytics,Pune,5+ years,Contract,11.8,Java;NumPy;JavaScript;SQL;Git;Docker;Excel;Python;Power BI,Master's degree,2026-02-10,Synthetic demo data
+JOB-0691,Data Analyst,DataBridge,Remote,3-5 years,Full-time,16.0,Tableau;Statistics;Python;Excel;SQL;Power BI;Pandas,Any degree,2026-05-07,Synthetic demo data
+JOB-0692,Data Analyst,FutureWorks,Chennai,3-5 years,Internship,13.1,Python;Power BI;Excel;Tableau;Statistics;SQL;Pandas;AWS;JavaScript;Docker,Master's degree,2026-09-03,Synthetic demo data
+JOB-0693,Data Scientist,CloudNine Tech,Hyderabad,1-3 years,Contract,16.2,Python;Pandas;Statistics;NumPy;Machine Learning;SQL,Any degree,2026-10-01,Synthetic demo data
+JOB-0694,Frontend Developer,BluePeak Systems,Hyderabad,1-3 years,Full-time,12.9,React;Git;CSS;HTML;Docker;JavaScript,Any degree,2026-02-19,Synthetic demo data
+JOB-0695,Backend Developer,Evergreen Digital,Kochi,Fresher,Contract,6.1,Java;AWS;Git;Docker;Node.js;SQL;Python,Bachelor's degree,2026-07-02,Synthetic demo data
+JOB-0696,Python Developer,Evergreen Digital,Mumbai,Fresher,Internship,13.4,Python;SQL;Docker;Git;HTML;NumPy;AWS,Any degree,2026-05-17,Synthetic demo data
+JOB-0697,Backend Developer,Aster Labs,Kochi,Fresher,Contract,23.2,Pandas;Java;Docker;AWS;Excel;Node.js;Power BI;Python;SQL;Git,Master's degree,2026-02-12,Synthetic demo data
+JOB-0698,Software Developer,BluePeak Systems,Bengaluru,1-3 years,Contract,16.8,Java;Docker;Git;JavaScript;SQL;Python,Any degree,2026-04-14,Synthetic demo data
+JOB-0699,Frontend Developer,Nova Solutions,Kochi,1-3 years,Internship,17.9,Git;HTML;JavaScript;React;CSS;Machine Learning,Any degree,2025-11-01,Synthetic demo data
+JOB-0700,Full Stack Developer,BluePeak Systems,Kochi,5+ years,Contract,19.0,React;CSS;Node.js;HTML;NumPy;Excel;JavaScript;Git;SQL,Any degree,2026-06-05,Synthetic demo data
